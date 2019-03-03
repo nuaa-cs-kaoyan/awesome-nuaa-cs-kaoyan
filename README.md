@@ -10,10 +10,8 @@
 ## About me
 
 <div align="left">
-    
-    <img src="assets/321556185.jpg" width=20% height=20% />
-    <img src="assets/QQ群.jpg" width=20% height=20% />
-    
+    <img src="/assets/321556185.jpg" width=20% height=20% />
+    <img src="/assets/QQ群.jpg" width=20% height=20% />
 </div>
 
 * **熊二学长(个人经营) / 17级南航计算机高分学长(400+) / QQ: 321556185** 
@@ -93,7 +91,7 @@
 
 ## 信息汇总
 
-* **[南航计算机考研信息汇总](南航计算机考研信息汇总) **
+* [南航计算机考研信息汇总](南航计算机考研信息汇总) 
 * 其他
   * 王道论坛帖子：[2017南航计算机考研经验贴](http://www.cskaoyan.com/thread-642848-1-1.html) and others about NUAA
   * [南航研究生院](http://www.graduate.nuaa.edu.cn/)
