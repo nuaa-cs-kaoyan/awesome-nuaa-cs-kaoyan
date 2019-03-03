@@ -27,10 +27,10 @@ Table of Contents
 ## About me
 
 <div align="left">
-    <img src="/assets/321556185.jpg" width=20% height=20% />
-    <img src="/assets/QQ群.jpg" width=20% height=20% />
-    <img src="/assets/微店链接.jpg" width=20% height=20% />
-    <img src="/assets/拼多多链接.jpg" width=20% height=20% />
+    <img src="https://blog-pic-1258744409.cos.ap-chengdu.myqcloud.com/321556185.jpg" width=20% height=20% />
+    <img src="https://blog-pic-1258744409.cos.ap-chengdu.myqcloud.com/QQ群.jpg" width=20% height=20% />
+    <img src="https://blog-pic-1258744409.cos.ap-chengdu.myqcloud.com/微店链接.jpg" width=20% height=20% />
+    <img src="https://blog-pic-1258744409.cos.ap-chengdu.myqcloud.com/拼多多链接.jpg" width=20% height=20% />
 </div>
 
 * **熊二学长(个人经营) / 17级南航计算机高分学长(400+) / QQ: 321556185** 
@@ -55,15 +55,15 @@ Table of Contents
 
 ## 专业课真题和考纲
 
-[专业课真题10—18](专业课真题) 包括 922 和 829 的真题。
+[专业课真题10—18](https://github.com/wansho/awesome-nuaa-cs-postgraduate-exam/tree/master/%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%9C%9F%E9%A2%98) 包括 922 和 829 的真题。
 
 ## 专业课资料
 
 一共两本
 
 <div align="left">
-    <img src="assets/第一本.jpg" width=25% height=25% />
-    <img src="assets/第二本.jpg" width=25% height=25% />
+    <img src="https://blog-pic-1258744409.cos.ap-chengdu.myqcloud.com/第一本.jpg" width=25% height=25% />
+    <img src="https://blog-pic-1258744409.cos.ap-chengdu.myqcloud.com/第二本.jpg" width=25% height=25% />
 </div>
 
 ### 目录
@@ -93,7 +93,7 @@ Table of Contents
 
 ### 资料样本
 
-专业课资料样本: [12年专业课数据结构和操作系统真题答案](专业课辅导资料样本)
+专业课资料样本: [12年专业课数据结构和操作系统真题答案](https://github.com/wansho/awesome-nuaa-cs-postgraduate-exam/tree/master/%E4%B8%93%E4%B8%9A%E8%AF%BE%E8%BE%85%E5%AF%BC%E8%B5%84%E6%96%99%E6%A0%B7%E6%9C%AC)
 
 ### 资料适用对象
 
@@ -103,11 +103,11 @@ Table of Contents
 
 ### 资料质量证明
 
-[18级19级考生口碑](专业课资料质量证明)
+[18级19级考生口碑](https://github.com/wansho/awesome-nuaa-cs-postgraduate-exam/tree/master/%E4%B8%93%E4%B8%9A%E8%AF%BE%E8%B5%84%E6%96%99%E8%B4%A8%E9%87%8F%E8%AF%81%E6%98%8E)
 
 ## 信息汇总
 
-* [南航计算机考研信息汇总](南航计算机考研信息汇总) 
+* [南航计算机考研信息汇总](https://github.com/wansho/awesome-nuaa-cs-postgraduate-exam/tree/master/%E5%8D%97%E8%88%AA%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%80%83%E7%A0%94%E4%BF%A1%E6%81%AF%E6%B1%87%E6%80%BB) 
 * 其他
   * 王道论坛帖子：[2017南航计算机考研经验贴](http://www.cskaoyan.com/thread-642848-1-1.html) and others about NUAA
   * [南航研究生院](http://www.graduate.nuaa.edu.cn/)
@@ -117,7 +117,7 @@ Table of Contents
 
 ## 经验贴
 
-独家整理，免费公开, [南航计算机考研经验贴](经验贴)
+独家整理，免费公开, [南航计算机考研经验贴](https://github.com/wansho/awesome-nuaa-cs-postgraduate-exam/tree/master/%E7%BB%8F%E9%AA%8C%E8%B4%B4)
 
 包含：
 
@@ -133,14 +133,14 @@ Table of Contents
 
 ## LICENSE
 
-[GPL v3.0](LICENSE)
+[GPL v3.0](https://github.com/wansho/awesome-nuaa-cs-postgraduate-exam/blob/master/LICENSE)
 
 ## 赞助
 
 如果你觉得该资料对你帮助很大，可以赞助我一杯 coffee, thanks.
 
 <div align="left">
-    <img src="assets/赞赏.jpg" width=20% height=20% />
+    <img src="https://blog-pic-1258744409.cos.ap-chengdu.myqcloud.com/赞赏.jpg" width=20% height=20% />
 </div>
 
 ## 
