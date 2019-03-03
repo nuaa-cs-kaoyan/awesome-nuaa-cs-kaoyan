@@ -1,4 +1,21 @@
-# **Awesome-NUAA-CS-Postgraduate-Exam**
+Table of Contents
+=================
+
+   * [<strong>Awesome-NUAA-CS-Postgraduate-Exam</strong>](#awesome-nuaa-cs-postgraduate-exam)
+      * [Inspiration](#inspiration)
+      * [About me](#about-me)
+      * [专业课真题和考纲](#专业课真题和考纲)
+      * [专业课资料](#专业课资料)
+         * [目录](#目录)
+         * [资料样本](#资料样本)
+         * [资料适用对象](#资料适用对象)
+         * [资料质量证明](#资料质量证明)
+      * [信息汇总](#信息汇总)
+      * [经验贴](#经验贴)
+      * [LICENSE](#license)
+      * [赞赏](#赞赏)
+
+# Awesome-NUAA-CS-Postgraduate-Exam
 
 南航计算机考研 **专业课资料** 和 **信息汇总**.
 
@@ -12,6 +29,8 @@
 <div align="left">
     <img src="/assets/321556185.jpg" width=20% height=20% />
     <img src="/assets/QQ群.jpg" width=20% height=20% />
+    <img src="/assets/微店小程序链接.jpg" width=20% height=20% />
+    <img src="/assets/微店链接.jpg" width=20% height=20% />
 </div>
 
 * **熊二学长(个人经营) / 17级南航计算机高分学长(400+) / QQ: 321556185** 
@@ -45,9 +64,6 @@
 <div align="left">
     <img src="assets/第一本.jpg" width=40% height=40% />
     <img src="assets/第二本.jpg" width=40% height=40% />
-    <br/>
-    <img src="assets/第一本目录.png" width=40% height=40% />
-    <img src="assets/第二本目录.jpg" width=40% height=40% />
 </div>
 
 ### 目录
@@ -118,5 +134,11 @@
 
 [GPL v3.0](LICENSE)
 
+## 赞赏
 
+<div align="left">
+    <img src="assets/赞赏.jpg" width=20% height=20% />
+</div>
+
+## 
 
