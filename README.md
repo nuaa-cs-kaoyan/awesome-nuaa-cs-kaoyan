@@ -62,8 +62,8 @@ Table of Contents
 一共两本
 
 <div align="left">
-    <img src="assets/第一本.jpg" width=40% height=40% />
-    <img src="assets/第二本.jpg" width=40% height=40% />
+    <img src="assets/第一本.jpg" width=25% height=25% />
+    <img src="assets/第二本.jpg" width=25% height=25% />
 </div>
 
 ### 目录
