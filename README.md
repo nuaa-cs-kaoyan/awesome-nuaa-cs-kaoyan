@@ -135,7 +135,9 @@ Table of Contents
 
 [GPL v3.0](LICENSE)
 
-## 赞赏
+## 赞助
+
+如果你觉得该资料对你帮助很大，可以赞助我一杯 coffee, thanks.
 
 <div align="left">
     <img src="assets/赞赏.jpg" width=20% height=20% />
