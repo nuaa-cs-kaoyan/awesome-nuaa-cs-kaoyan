@@ -29,8 +29,8 @@ Table of Contents
 <div align="left">
     <img src="/assets/321556185.jpg" width=20% height=20% />
     <img src="/assets/QQ群.jpg" width=20% height=20% />
-    <img src="/assets/微店小程序链接.jpg" width=20% height=20% />
     <img src="/assets/微店链接.jpg" width=20% height=20% />
+    <img src="/assets/拼多多链接.jpg" width=20% height=20% />
 </div>
 
 * **熊二学长(个人经营) / 17级南航计算机高分学长(400+) / QQ: 321556185** 
@@ -39,11 +39,11 @@ Table of Contents
   * [南航计算机考研相关信息整理！免费公开！！](http://www.cskaoyan.com/thread-643825-1-1.html)
   * [南航18级计算机复试面试题和面试问答](http://www.cskaoyan.com/thread-649395-1-1.html)
   * [南航计算机考研真题答案!没错!是答案!答案!答案!](http://www.cskaoyan.com/thread-643443-1-1.html) 
-  * others
+  * Others
 
 * **考研专业课资料地址**
   * 微店：https://k.weidian.com/a0lQclaM （[20级南航计算机考研资料](https://k.weidian.com/a0lQclaM )）
-  * 拼多多: to be continue
+  * 拼多多: https://mobile.yangkeduo.com/goods2.html?goods_id=6128127926
 * **南航计算机考研辅导历史**
   * 2017-02 考研出分，总分 400+，专业课成绩 135+
   * 2017-04 在[王道论坛](http://www.cskaoyan.com/thread-642848-1-1.html)分享考研经验，并开始编写南航计算机考研资料
@@ -129,6 +129,7 @@ Table of Contents
 * 专业课讲座整理
 * 复试相关信息和经验总结
 * 复试面试题汇总
+* Others
 
 ## LICENSE
 
