@@ -29,9 +29,10 @@ Table of Contents
 <div align="left">
     <img src="https://blog-pic-1258744409.cos.ap-chengdu.myqcloud.com/321556185.jpg" width=20% height=20% />
     <img src="https://blog-pic-1258744409.cos.ap-chengdu.myqcloud.com/QQ群.jpg" width=20% height=20% />
-    <img src="https://blog-pic-1258744409.cos.ap-chengdu.myqcloud.com/微店链接.jpg" width=20% height=20% />
+    <img src="/assets/微店链接.jpg" width=20% height=20% />
     <img src="https://blog-pic-1258744409.cos.ap-chengdu.myqcloud.com/拼多多链接.jpg" width=20% height=20% />
 </div>
+
 
 * **熊二学长(个人经营) / 17级南航计算机高分学长(400+) / QQ: 321556185** 
 * **王道论坛博主：熊二**
