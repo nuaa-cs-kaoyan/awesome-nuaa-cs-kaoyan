@@ -27,11 +27,12 @@ Table of Contents
 ## About me
 
 <div align="left">
-    <img src="https://blog-pic-1258744409.cos.ap-chengdu.myqcloud.com/321556185.jpg" width=20% height=20% />
-    <img src="https://blog-pic-1258744409.cos.ap-chengdu.myqcloud.com/QQ群.jpg" width=20% height=20% />
+    <img src="/assets/321556185.jpg" width=20% height=20% />
+    <img src="/assets/QQ群.jpg" width=20% height=20% />
     <img src="/assets/微店链接.jpg" width=20% height=20% />
-    <img src="https://blog-pic-1258744409.cos.ap-chengdu.myqcloud.com/拼多多链接.jpg" width=20% height=20% />
+    <img src="/assets/拼多多链接.jpg" width=20% height=20% />
 </div>
+
 
 
 * **熊二学长(个人经营) / 17级南航计算机高分学长(400+) / QQ: 321556185** 
@@ -63,9 +64,10 @@ Table of Contents
 一共两本
 
 <div align="left">
-    <img src="https://blog-pic-1258744409.cos.ap-chengdu.myqcloud.com/第一本.jpg" width=25% height=25% />
-    <img src="https://blog-pic-1258744409.cos.ap-chengdu.myqcloud.com/第二本.jpg" width=25% height=25% />
+    <img src="/assets/第一本.jpg" width=25% height=25% />
+    <img src="/assets/第二本.jpg" width=25% height=25% />
 </div>
+
 
 ### 目录
 
@@ -141,8 +143,9 @@ Table of Contents
 如果你觉得该资料对你帮助很大，可以赞助我一杯 coffee, thanks.
 
 <div align="left">
-    <img src="https://blog-pic-1258744409.cos.ap-chengdu.myqcloud.com/赞赏.jpg" width=20% height=20% />
+    <img src="/assets/赞赏.jpg" width=20% height=20% />
 </div>
+
 
 ## 
 
