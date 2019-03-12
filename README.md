@@ -138,7 +138,7 @@ Table of Contents
 
 [GPL v3.0](https://github.com/wansho/awesome-nuaa-cs-postgraduate-exam/blob/master/LICENSE)
 
-## 赞助
+## 赞赏
 
 如果你觉得该资料对你帮助很大，可以赞助我一杯 coffee, thanks.
 
