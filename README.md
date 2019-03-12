@@ -12,6 +12,7 @@ Table of Contents
          * [资料质量证明](#资料质量证明)
       * [信息汇总](#信息汇总)
       * [经验贴](#经验贴)
+      * [经验贴-From-Others](#经验贴-From-Others)
       * [LICENSE](#license)
       * [赞赏](#赞赏)
 
@@ -133,6 +134,10 @@ Table of Contents
 * 复试相关信息和经验总结
 * 复试面试题汇总
 * Others
+
+## 经验贴-From-Others
+
+欢迎大家提交自己的考研经验到 [经验贴-From-Others](经验贴-From-Others) 文件夹下，任何形式的文件都可以，建议用 markdown 的文本文件。
 
 ## LICENSE
 
