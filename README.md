@@ -137,7 +137,7 @@ Table of Contents
 
 ## 经验贴-From-Others
 
-欢迎大家提交自己的考研经验到 [经验贴-From-Others](经验贴-From-Others) 文件夹下，任何形式的文件都可以，建议用 markdown 的文本文件。
+欢迎大家提交自己的 考研经验 或 复试面试题 到 [经验贴-From-Others](经验贴-From-Others) 文件夹下，任何形式的文件都可以，建议用 markdown 的文本文件。
 
 ## LICENSE
 
