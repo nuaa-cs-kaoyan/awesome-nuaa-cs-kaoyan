@@ -142,7 +142,9 @@ Table of Contents
 ## Organization
 
 <div align="left">
-    <img src="/assets/nuaa-cs-kaoyan.jpg" width=20% height=20% href="https://github.com/nuaa-cs-kaoyan"/>
+    <a href="https://github.com/nuaa-cs-kaoyan">
+    	<img src="/assets/nuaa-cs-kaoyan.jpg" width=20% height=20% />
+    </a>
 </div>
 
 ## 赞赏
