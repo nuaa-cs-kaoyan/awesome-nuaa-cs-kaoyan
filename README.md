@@ -14,6 +14,7 @@ Table of Contents
       * [经验贴](#经验贴)
       * [经验贴-From-Others](#经验贴-From-Others)
       * [LICENSE](#license)
+      * [Organization](#Organization)
       * [赞赏](#赞赏)
 
 # Awesome-NUAA-CS-Kaoyan
