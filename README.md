@@ -16,7 +16,7 @@ Table of Contents
       * [LICENSE](#license)
       * [赞赏](#赞赏)
 
-# Awesome-NUAA-CS-Postgraduate-Exam
+# Awesome-NUAA-CS-Kaoyan
 
 南航计算机考研 **专业课资料** 和 **信息汇总**.
 
@@ -135,13 +135,15 @@ Table of Contents
 * 复试面试题汇总
 * Others
 
-## 经验贴-From-Others
-
-欢迎大家提交自己的 考研经验 或 复试面试题 到 [经验贴-From-Others](经验贴-From-Others) 文件夹下，任何形式的文件都可以，建议用 markdown 的文本文件。
-
 ## LICENSE
 
 [GPL v3.0](https://github.com/wansho/awesome-nuaa-cs-postgraduate-exam/blob/master/LICENSE)
+
+## Organization
+
+<div align="left">
+    <img src="/assets/nuaa-cs-kaoyan.jpg" width=20% height=20% href="https://github.com/nuaa-cs-kaoyan"/>
+</div>
 
 ## 赞赏
 
