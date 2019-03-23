@@ -12,7 +12,7 @@ Table of Contents
          * [资料质量证明](#资料质量证明)
       * [信息汇总](#信息汇总)
       * [经验贴](#经验贴)
-      * [经验贴-From-Others](#经验贴-From-Others)
+      * [复试相关资料共享](#复试相关资料共享)
       * [LICENSE](#license)
       * [Organization](#Organization)
       * [赞赏](#赞赏)
@@ -127,6 +127,7 @@ Table of Contents
 包含：
 
 * 公共课建议
+* [南航计算机考研讲座录屏](https://pan.baidu.com/s/1COEhgTDJ9K_7fM5VQ3rMFw ) 提取码：4vup 
 * 专业课答疑
 * 学习方法和感悟
 * 保研相关
@@ -135,6 +136,10 @@ Table of Contents
 * 复试相关信息和经验总结
 * 复试面试题汇总
 * Others
+
+## 复试相关资料共享
+
+[复试相关资料共享](复试相关资料共享/复试相关资料共享.md)
 
 ## LICENSE
 
