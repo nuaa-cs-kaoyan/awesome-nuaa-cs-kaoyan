@@ -18,6 +18,7 @@ Awesome-NUAA-CS-Kaoyan
       * [LICENSE](#license)
       * [Organization](#Organization)
       * [赞赏](#赞赏)
+      * [TODO](#TODO)
 
 
 
@@ -172,7 +173,9 @@ Awesome-NUAA-CS-Kaoyan
 <div align="left">
     <img src="/assets/赞赏.jpg" width=20% height=20% />
 </div>
+## TODO
 
+我会在毕业后适当的时候，将该书出版，然后公开电子书。
 
 ## 
 
