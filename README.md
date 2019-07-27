@@ -131,7 +131,7 @@ Awesome-NUAA-CS-Kaoyan
 
 * 公共课建议
 * [初试讲座](经验贴/考研初试讲座.md)
-* [南航计算机考研讲座录屏](https://pan.baidu.com/s/1COEhgTDJ9K_7fM5VQ3rMFw ) 提取码：4vup 
+* [B 站南航计算机考研讲座录屏](<https://www.bilibili.com/video/av59012167> )  
 * 专业课答疑
 * 学习方法和感悟
 * 保研相关
