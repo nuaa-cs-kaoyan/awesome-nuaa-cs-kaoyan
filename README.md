@@ -23,8 +23,9 @@ Awesome-NUAA-CS-Kaoyan
 
 南航计算机考研 **专业课资料** 和 **信息汇总**.
 
-## 通知
+## <font color="red">21 届计算机考研最新通知 </font>
 
+* [**20 届后南航计算机考研变化分析**](经验贴/20届后南航计算机考研变化.md)
 * **熊二学长会继续做 2021届的南航计算机考研辅导！2021届的群号为：915819571**
 * **829 计算机组成原理的解析正在编写，2021 届考研的同学，能从我这里买到 829 的资料了**
 
@@ -37,9 +38,9 @@ Awesome-NUAA-CS-Kaoyan
 
 <div align="left">
     <img src="/assets/321556185.jpg" width=20% height=20% />
+    <img src="/assets/21考研群.jpg" width=20% height=20% />
     <img src="/assets/QQ群.jpg" width=20% height=20% />
     <img src="/assets/微店链接.jpg" width=20% height=20% />
-    <img src="/assets/拼多多链接.jpg" width=20% height=20% />
 </div>
 
 
