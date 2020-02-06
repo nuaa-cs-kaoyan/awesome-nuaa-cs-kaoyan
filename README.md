@@ -40,7 +40,6 @@ Awesome-NUAA-CS-Kaoyan
     <img src="/assets/321556185.jpg" width=20% height=20% />
     <img src="/assets/微信.jpg" width=20% height=20% />
     <img src="/assets/21考研群.jpg" width=20% height=20% />
-    <img src="/assets/QQ群.jpg" width=20% height=20% />
     <img src="/assets/微店链接.jpg" width=20% height=20% />
 </div>
 
