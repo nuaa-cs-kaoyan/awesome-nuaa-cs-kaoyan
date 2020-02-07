@@ -65,6 +65,7 @@ Awesome-NUAA-CS-Kaoyan
   * 2018-12 19 考研学生反馈，专业课资料的必备考点，再次命中多道真题的简单题，再次好评如潮
   * 2019-02 [20级南航计算机考研辅导资料](https://k.weidian.com/a0lQclaM) 编写完成，开始辅导 20级南航计算机考研
   * 2019-10 开始编写 829 计算机组成原理的解析
+  * 2020-02 面向 2021 届的 829 专业课资料编写完成，加入计算机组成原理解析
 
 ## 专业课真题和考纲
 
@@ -75,8 +76,8 @@ Awesome-NUAA-CS-Kaoyan
 一共两本
 
 <div align="center">
-    <img src="/assets/专业课资料-第一本封皮.png" width=40% height=40% />
-    <img src="/assets/专业课资料-第二本封皮.png" width=40% height=40% />
+    <img src="/assets/专业课资料-第一本封皮.png" width=50% height=50% />
+    <img src="/assets/专业课资料-第二本封皮.png" width=50% height=50% />
 </div>
 
 
@@ -84,8 +85,8 @@ Awesome-NUAA-CS-Kaoyan
 
 
 <div align="center">
-    <img src="/assets/第一本目录.png" width=40% height=40% />
-    <img src="/assets/第二本目录.png" width=40% height=40% />
+    <img src="/assets/第一本目录.png" width=50% height=50% />
+    <img src="/assets/第二本目录.png" width=50% height=50% />
 </div>
 
 
