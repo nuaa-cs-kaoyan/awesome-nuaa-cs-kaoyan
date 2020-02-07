@@ -74,7 +74,7 @@ Awesome-NUAA-CS-Kaoyan
 
 一共两本
 
-<div align="left">
+<div align="center">
     <img src="/assets/专业课资料-第一本封皮.png" width=40% height=40% />
     <img src="/assets/专业课资料-第二本封皮.png" width=40% height=40% />
 </div>
@@ -82,28 +82,12 @@ Awesome-NUAA-CS-Kaoyan
 
 ### 目录
 
-* **第一本**
-  * **必背知识点**
-  * 资料说明
-  * 922 考纲
-  * 829 考纲
-  * 12—18 真题和答案
-  * 10—11 真题和答案
-* **第二本**
-  * 如何复习专业课
-  * VIP 经验贴
-  * 重难点突破
-  * 10 年之前部分真题答案
-  * 10 年之前真题
-  * 3 套期末试卷和答案
-  * 复试说明
-  * 初试后该干什么
-  * 复试考纲
-  * 编译原理如何复习
-  * 离散数学如何复习
-  * 复试面试
-  * 离散数学经典题型
-  * 18 级复试面试题
+
+<div align="center">
+    <img src="/assets/第一本目录.png" width=40% height=40% />
+    <img src="/assets/第二本目录.png" width=40% height=40% />
+</div>
+
 
 ### 资料样本
 
