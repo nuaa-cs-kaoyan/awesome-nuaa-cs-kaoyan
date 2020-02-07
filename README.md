@@ -43,6 +43,7 @@ Awesome-NUAA-CS-Kaoyan
     <img src="/assets/微店小程序链接.jpg" width=20% height=20% />
     <img src="/assets/王道论坛.png" width=20% height=20% />
     <img src="/assets/Github.jpg" width=20% height=20% />
+    <img src="/assets/大大卷点点心の二维码.png" width=20% height=20% />   
 </div>
 
 
