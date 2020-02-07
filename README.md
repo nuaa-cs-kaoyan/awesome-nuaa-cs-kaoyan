@@ -75,8 +75,8 @@ Awesome-NUAA-CS-Kaoyan
 一共两本
 
 <div align="left">
-    <img src="/assets/第一本.jpg" width=25% height=25% />
-    <img src="/assets/第二本.jpg" width=25% height=25% />
+    <img src="/assets/专业课资料-第一本封皮.png" width=40% height=40% />
+    <img src="/assets/专业课资料-第二本封皮.png" width=40% height=40% />
 </div>
 
 
