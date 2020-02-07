@@ -26,7 +26,7 @@ Awesome-NUAA-CS-Kaoyan
 
 * [**20 届后南航计算机考研变化分析**](经验贴/20届后南航计算机考研变化.md)
 * **熊二学长会继续做 2021届的南航计算机考研辅导！2021届的群号为：915819571**
-* **829 计算机组成原理的解析正在编写，2021 届考研的同学，能从我这里买到 829 的资料了**
+* **829 计算机组成原理的解析已经编写完成，2021 届考研的同学，能从我这里买到 829 的资料了**
 
 ## Inspiration
 
@@ -40,6 +40,7 @@ Awesome-NUAA-CS-Kaoyan
     <img src="/assets/微信.jpg" width=20% height=20% />
     <img src="/assets/21考研群.jpg" width=20% height=20% />
     <img src="/assets/微店链接.jpg" width=20% height=20% />
+    <img src="/assets/微店小程序链接.jpg" width=20% height=20% />
 </div>
 
 
@@ -53,7 +54,7 @@ Awesome-NUAA-CS-Kaoyan
   * Others
 
 * **考研专业课资料地址**
-  * 微店：https://k.weidian.com/a0lQclaM （[20级南航计算机考研资料](https://k.weidian.com/a0lQclaM )）
+  * 微店：https://k.weidian.com/a0lQclaM （[21届南航计算机考研资料](https://k.weidian.com/a0lQclaM )）
   * 拼多多: https://mobile.yangkeduo.com/goods2.html?goods_id=6128127926
 * **南航计算机考研辅导历史**
   * 2017-02 考研出分，总分 400+，专业课成绩 135+
