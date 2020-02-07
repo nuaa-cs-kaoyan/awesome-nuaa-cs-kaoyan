@@ -17,7 +17,6 @@ Awesome-NUAA-CS-Kaoyan
       * [复试相关资料共享](#复试相关资料共享)
       * [LICENSE](#license)
       * [Organization](#Organization)
-      * [赞赏](#赞赏)
 
 
 
@@ -153,12 +152,4 @@ Awesome-NUAA-CS-Kaoyan
     <a href="https://github.com/nuaa-cs-kaoyan">
     	<img src="/assets/nuaa-cs-kaoyan.jpg" width=20% height=20% />
     </a>
-</div>
-
-## 赞赏
-
-如果你觉得该资料对你帮助很大，可以赞助我一杯 coffee, thanks.
-
-<div align="left">
-    <img src="/assets/赞赏.jpg" width=20% height=20% />
 </div>
