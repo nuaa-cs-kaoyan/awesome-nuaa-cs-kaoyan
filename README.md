@@ -40,9 +40,9 @@ Awesome-NUAA-CS-Kaoyan
     <img src="/assets/微信.jpg" width=20% height=20% />
     <img src="/assets/21考研群.jpg" width=20% height=20% />
     <img src="/assets/微店链接.jpg" width=20% height=20% />
-    <img src="/assets/微店小程序链接.jpg" width=20% height=20% />
+    <img src="/assets/拼多多.jpg" width=20% height=20% />
     <img src="/assets/王道论坛.png" width=20% height=20% />
-    <img src="/assets/Github.jpg" width=20% height=20% />
+    <img src="/assets/Github.png" width=20% height=20% />
     <img src="/assets/大大卷点点心の二维码.png" width=20% height=20% />   
 </div>
 
@@ -58,7 +58,7 @@ Awesome-NUAA-CS-Kaoyan
 
 * **考研专业课资料地址**
   * 微店：https://k.weidian.com/a0lQclaM （[21届南航计算机考研资料](https://k.weidian.com/a0lQclaM )）
-  * 拼多多: https://mobile.yangkeduo.com/goods2.html?goods_id=6128127926
+  * 拼多多: https://mobile.yangkeduo.com/goods2.html?goods_id=86968936251
 * **南航计算机考研辅导历史**
   * 2017-02 考研出分，总分 400+，专业课成绩 135+
   * 2017-04 在[王道论坛](http://www.cskaoyan.com/thread-642848-1-1.html)分享考研经验，并开始编写南航计算机考研资料
