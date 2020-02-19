@@ -49,13 +49,13 @@ Awesome-NUAA-CS-Kaoyan
 
 
 * **熊二学长(个人经营) / 17级南航计算机高分学长(400+) / QQ: 321556185** 
+* **Bilibili 专栏 Up 主**：[大大卷点点心](https://www.bilibili.com/read/cv4606513 )
 * **王道论坛博主：熊二**
-  * [2017南航计算机考研经验贴](http://www.kaoyancs.com/thread-642848-1-1.html)
-  * [南航计算机考研相关信息整理！免费公开！！](http://www.kaoyancs.com/thread-643825-1-1.html)
-  * [南航18级计算机复试面试题和面试问答](http://www.kaoyancs.com/thread-649395-1-1.html)
-  * [南航计算机考研真题答案!没错!是答案!答案!答案!](http://www.kaoyancs.com/thread-643443-1-1.html) 
+  * [2017南航计算机考研经验贴](http://www.cskaoyan.com/thread-642848-1-1.html)
+  * [南航计算机考研相关信息整理！免费公开！！](http://www.cskaoyan.com/thread-643825-1-1.html)
+  * [南航18级计算机复试面试题和面试问答](http://www.cskaoyan.com/thread-649395-1-1.html)
+  * [南航计算机考研真题答案!没错!是答案!答案!答案!](http://www.cskaoyan.com/thread-643443-1-1.html) 
   * Others
-
 * **考研专业课资料地址**
   * 微店：https://k.weidian.com/a0lQclaM （[21届南航计算机考研资料](https://k.weidian.com/a0lQclaM )）
   * 拼多多: https://mobile.yangkeduo.com/goods2.html?goods_id=86968936251
