@@ -48,7 +48,7 @@ Awesome-NUAA-CS-Kaoyan
 
 
 
-* **熊二学长(个人经营) / 17级南航计算机高分学长(400+) / QQ: 321556185** 
+* **熊二学长(个人经营) / 17级南航计算机高分学长(417分) / QQ: 321556185** 
 * **Bilibili 专栏 Up 主**：[大大卷点点心](https://www.bilibili.com/read/cv4606513 )
 * **王道论坛博主：熊二**
   * [2017南航计算机考研经验贴](http://www.cskaoyan.com/thread-642848-1-1.html)
