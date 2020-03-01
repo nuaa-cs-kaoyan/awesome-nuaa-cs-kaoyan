@@ -6,6 +6,8 @@ Awesome-NUAA-CS-Kaoyan
    * [<strong>Awesome-NUAA-CS-Postgraduate-Exam</strong>](#awesome-nuaa-cs-postgraduate-exam)
       * [Inspiration](#inspiration)
       * [About me](#about-me)
+      * [南航计算机招生情况/复录比](#南航计算机招生情况/复录比)
+      * [B站南航计算机考研讲座视频](#B站南航计算机考研讲座视频)
       * [专业课真题和考纲](#专业课真题和考纲)
       * [专业课资料](#专业课资料)
          * [目录](#目录)
@@ -70,7 +72,7 @@ Awesome-NUAA-CS-Kaoyan
   * 2019-10 开始编写 829 计算机组成原理的解析
   * 2020-02 面向 2021 届的 829 专业课资料编写完成，加入计算机组成原理解析
 
-## 南航计算机招生情况 / 复录比
+## 南航计算机招生情况/复录比
 
 2019 届数据
 
@@ -94,13 +96,13 @@ Awesome-NUAA-CS-Kaoyan
 | 专硕-软工   | 33       | 48（303 / 380）                | 1.45: 1 |
 | 汇总        | 102      | 143 （260 / 409）              | 1.4: 1  |
 
-## B 站南航计算机考研讲座视频
+## B站南航计算机考研讲座视频
 
 * [【考研真相】考研到底难不难？要不要报班？全程干货无尿点](https://www.bilibili.com/video/av91210812)
 
   <div align="left">
       <a href="https://www.bilibili.com/video/av91210812">
-      	<img src="assets/考研真相-考研到底难不难.png" width=20% height=20% />
+      	<img src="assets/考研真相-考研到底难不难.png" width=40% height=40% />
       </a>
   </div>
 
@@ -108,7 +110,7 @@ Awesome-NUAA-CS-Kaoyan
 
   <div align="left">
       <a href="https://www.bilibili.com/video/av90697748">
-      	<img src="assets/南航计算机考研-直播录播.png" width=20% height=20% />
+      	<img src="assets/南航计算机考研-直播录播.png" width=40% height=40% />
       </a>
   </div>
 
@@ -116,7 +118,7 @@ Awesome-NUAA-CS-Kaoyan
 
   <div align="left">
       <a href="https://www.bilibili.com/video/av59012167">
-      	<img src="assets/17年直播.png" width=20% height=20% />
+      	<img src="assets/17年直播.png" width=40% height=40% />
       </a>
   </div>
 
