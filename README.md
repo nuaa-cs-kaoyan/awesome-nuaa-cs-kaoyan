@@ -94,9 +94,35 @@ Awesome-NUAA-CS-Kaoyan
 | 专硕-软工   | 33       | 48（303 / 380）                | 1.45: 1 |
 | 汇总        | 102      | 143 （260 / 409）              | 1.4: 1  |
 
+## B 站南航计算机考研讲座视频
+
+* [【考研真相】考研到底难不难？要不要报班？全程干货无尿点](https://www.bilibili.com/video/av91210812)
+
+  <div align="left">
+      <a href="https://www.bilibili.com/video/av91210812">
+      	<img src="assets/考研真相-考研到底难不难.png" width=20% height=20% />
+      </a>
+  </div>
+
+* [南航计算机考研-直播录播讨论](https://www.bilibili.com/video/av90697748)
+
+  <div align="left">
+      <a href="https://www.bilibili.com/video/av90697748">
+      	<img src="assets/南航计算机考研-直播录播.png" width=20% height=20% />
+      </a>
+  </div>
+
+* [17 年讲座直播录播](https://www.bilibili.com/video/av59012167)
+
+  <div align="left">
+      <a href="https://www.bilibili.com/video/av59012167">
+      	<img src="assets/17年直播.png" width=20% height=20% />
+      </a>
+  </div>
+
 ## 专业课真题和考纲
 
-[专业课真题10—18](https://github.com/wansho/awesome-nuaa-cs-postgraduate-exam/tree/master/%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%9C%9F%E9%A2%98) 包括 922 和 829 的真题。
+[专业课真题10—18](https://github.com/wansho/awesome-nuaa-cs-postgraduate-exam/tree/master/%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%9C%9F%E9%A2%98) 包括 922 和 829 的真题。还有 2020 届的真题。
 
 ## 专业课资料
 
@@ -119,7 +145,7 @@ Awesome-NUAA-CS-Kaoyan
 
 ### 资料样本
 
-专业课资料样本: [12年专业课数据结构和操作系统真题答案](https://github.com/wansho/awesome-nuaa-cs-postgraduate-exam/tree/master/%E4%B8%93%E4%B8%9A%E8%AF%BE%E8%BE%85%E5%AF%BC%E8%B5%84%E6%96%99%E6%A0%B7%E6%9C%AC)
+专业课资料样本: [12年专业课数据结构和操作系统真题解析，13年计组真题解析](https://github.com/wansho/awesome-nuaa-cs-postgraduate-exam/tree/master/%E4%B8%93%E4%B8%9A%E8%AF%BE%E8%BE%85%E5%AF%BC%E8%B5%84%E6%96%99%E6%A0%B7%E6%9C%AC)
 
 ### 资料适用对象
 
