@@ -1,7 +1,7 @@
 Awesome-NUAA-CS-Kaoyan
 =================
 
-[![王道](<https://img.shields.io/badge/%E7%8E%8B%E9%81%93-%E7%86%8A%E4%BA%8C-brightgreen.svg>)](<http://www.cskaoyan.com/thread-642848-1-1.html>) [![QQ](<https://img.shields.io/badge/QQ%E7%BE%A4-737219830-green.svg>)](https://jq.qq.com/?_wv=1027&k=50SRO9J) [![github](https://img.shields.io/github/stars/nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan.svg)](https://github.com/nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan)  [![拼多多](<https://img.shields.io/badge/%E6%8B%BC%E5%A4%9A%E5%A4%9A-20%E8%80%83%E7%A0%94%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%B5%84%E6%96%99-yellowgreen.svg>)](https://mobile.yangkeduo.com/goods2.html?goods_id=6128127926) [![微店](<https://img.shields.io/badge/%E5%BE%AE%E5%BA%97-20%E5%8D%97%E8%88%AA%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%80%83%E7%A0%94-orange.svg>)](https://k.weidian.com/a0lQclaM )
+[![王道]()](http://www.cskaoyan.com/thread-642848-1-1.html) [![github](https://img.shields.io/github/stars/nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan.svg)](https://github.com/nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan) 
 
    * [<strong>Awesome-NUAA-CS-Postgraduate-Exam</strong>](#awesome-nuaa-cs-postgraduate-exam)
       * [Inspiration](#inspiration)
