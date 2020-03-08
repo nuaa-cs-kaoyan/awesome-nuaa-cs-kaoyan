@@ -162,8 +162,12 @@ Awesome-NUAA-CS-Kaoyan
 * [南航计算机考研信息汇总](https://github.com/wansho/awesome-nuaa-cs-postgraduate-exam/tree/master/%E5%8D%97%E8%88%AA%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%80%83%E7%A0%94%E4%BF%A1%E6%81%AF%E6%B1%87%E6%80%BB) 
 * 其他
   * 王道论坛帖子：[2017南航计算机考研经验贴](http://www.cskaoyan.com/thread-642848-1-1.html) and others about NUAA
-  * [南航研究生院](http://www.graduate.nuaa.edu.cn/)
-  * [南航计算机学院](http://cs.nuaa.edu.cn/)
+  * [南航研究生院官网](http://www.graduate.nuaa.edu.cn/)
+  * [南航计算机学院官网](http://cs.nuaa.edu.cn/)
+  * 南航计算机学院微信公众号
+  * 南航研究生微信公众号
+  * 知乎上关于南航计算机学院老师的讨论
+  * 
   * QQ空间：321556185
   * others info from Internet
 
