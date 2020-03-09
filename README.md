@@ -167,7 +167,7 @@ Awesome-NUAA-CS-Kaoyan
   * 南航计算机学院微信公众号
   * 南航研究生微信公众号
   * 知乎上关于南航计算机学院老师的讨论
-  * 
+  * Bilibili：[大大卷点点心](https://www.bilibili.com/read/cv4606513 )
   * QQ空间：321556185
   * others info from Internet
 
