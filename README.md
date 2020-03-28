@@ -1,7 +1,7 @@
 Awesome-NUAA-CS-Kaoyan
 =================
 
-[![王道]()](http://www.cskaoyan.com/thread-642848-1-1.html) [![github](https://img.shields.io/github/stars/nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan.svg)](https://github.com/nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan) 
+ [![github](https://img.shields.io/github/stars/nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan.svg)](https://github.com/nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan) 
 
    * [<strong>Awesome-NUAA-CS-Postgraduate-Exam</strong>](#awesome-nuaa-cs-postgraduate-exam)
       * [Inspiration](#inspiration)
@@ -52,7 +52,7 @@ Awesome-NUAA-CS-Kaoyan
 
 * **熊二学长(个人经营) / 17级南航计算机高分学长(417分) / QQ: 321556185** 
 * **Bilibili 专栏 Up 主**：[【大大卷点点心】](https://www.bilibili.com/read/cv4606513 )
-* 知乎专栏：[【南航计算机考研】](https://zhuanlan.zhihu.com/c_1226188578315042816)
+* **知乎专栏**：[【南航计算机考研】](https://zhuanlan.zhihu.com/c_1226188578315042816)
 * **王道论坛博主：熊二**
   * [2017南航计算机考研经验贴](http://www.cskaoyan.com/thread-642848-1-1.html)
   * [南航计算机考研相关信息整理！免费公开！！](http://www.cskaoyan.com/thread-643825-1-1.html)
