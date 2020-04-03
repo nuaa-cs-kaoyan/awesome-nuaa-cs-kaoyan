@@ -123,6 +123,14 @@ Awesome-NUAA-CS-Kaoyan
 
 ## B站南航计算机考研讲座视频
 
+* [【南航计算机考研】全面了解南航计算机考研](https://www.bilibili.com/video/BV1zV411f7oc/) 
+
+  <div align="left">
+      <a href="https://www.bilibili.com/video/BV1zV411f7oc/">
+      	<img src="assets/第四次直播-全面了解南航计算机考研.png" width=40% height=40% />
+      </a>
+  </div>
+
 * [【考研真相】考研到底难不难？要不要报班？全程干货无尿点](https://www.bilibili.com/video/av91210812)
 
   <div align="left">
