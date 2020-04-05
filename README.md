@@ -3,10 +3,11 @@ Awesome-NUAA-CS-Kaoyan
 
  [![github](https://img.shields.io/github/stars/nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan.svg)](https://github.com/nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan) 
 
-   * [<strong>Awesome-NUAA-CS-Postgraduate-Exam</strong>](#awesome-nuaa-cs-postgraduate-exam)
+   * [<strong>Awesome-NUAA-CS-Kaoyan</strong>](#Awesome-NUAA-CS-Kaoyan)
       * [Inspiration](#inspiration)
       * [About me](#about-me)
       * [南航计算机招生情况/复录比](#南航计算机招生情况/复录比)
+      * [专业课复习需要用到的书](#专业课复习需要用到的书)
       * [B站南航计算机考研讲座视频](#B站南航计算机考研讲座视频)
       * [专业课真题和考纲](#专业课真题和考纲)
       * [专业课资料](#专业课资料)
@@ -17,6 +18,7 @@ Awesome-NUAA-CS-Kaoyan
       * [信息汇总](#信息汇总)
       * [经验贴](#经验贴)
       * [复试相关资料共享](#复试相关资料共享)
+      * [文件目录](#文件目录)
       * [LICENSE](#license)
       * [Organization](#Organization)
 
@@ -119,7 +121,36 @@ Awesome-NUAA-CS-Kaoyan
 | 2019 | 139          | 39              |
 | 2020 |              |                 |
 
+## 专业课复习需要用到的书
 
+* **考纲指定教材**（数据来源：2020 考纲）
+
+  * 计算机组成原理参考书
+
+    袁春风《计算机组成与系统结构（第2版）》，清华大学出版社，2015年8月
+    王党辉，康继昌，安建峰译《计算机组成与设计 硬件/软件接口(第5版)》，机械工业出版社，2015年7月
+
+  * 操作系统参考书
+
+    汤小丹，梁红兵，哲凤屏，汤子瀛，《计算机操作系统》（第三版），西安电子科技大学出版社，2007年5月
+
+  * 数据结构参考书
+
+    严蔚敏、吴伟民 编著，《数据结构（C）语言版》 清华大学出版社，2007年
+
+*  **习题集**
+
+  王道或天勤，首选王道
+
+* **专业课复习资料**
+
+  一套靠谱的专业课资料：[南航计算机考研复习资料](https://mobile.yangkeduo.com/goods2.html?goods_id=86968936251)
+
+* **教材配套习题集**
+
+  * 计算机组成与系统结构习题解答和教学指导-第二版 袁春风 （必买，出过原题）
+  * 数据结构题集-严蔚敏
+  * 计算机操作系统（第四版）学习指导与题解 汤小丹
 
 ## B站南航计算机考研讲座视频
 
