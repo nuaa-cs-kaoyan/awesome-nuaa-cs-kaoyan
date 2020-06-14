@@ -27,6 +27,8 @@ Awesome-NUAA-CS-Kaoyan
 
 南航计算机考研 **专业课资料** 和 **信息汇总**.
 
+Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
+
 ## <font color="red">21 届计算机考研最新通知 </font>
 
 * [**20 届后南航计算机考研变化分析**](经验贴/20届后南航计算机考研变化.md)
