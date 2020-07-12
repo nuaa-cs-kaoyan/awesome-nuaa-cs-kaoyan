@@ -352,6 +352,7 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
 │   ├── 2020 最新考纲.txt
 │   ├── 2020 真题.pdf
 │   ├── 复试考纲.txt
+│   ├── 操作系统 汤小丹 .pdf
 │   └── 计算机组成与系统结构课后答案全(清华大学出版社_袁春风主编).doc
 ├── 专业课资料介绍.md
 ├── 专业课资料质量证明
@@ -454,6 +455,7 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
 │   ├── 十一：疫情期间的考研.md
 │   ├── 十三：考研之外的一些事情.md
 │   ├── 十二：读研真相.md
+│   ├── 十五：准研究生建议.md
 │   ├── 十四：2020届复试分析.md
 │   ├── 十：那些考上的同学们.md
 │   ├── 四：2020 届同学考研结果分析汇总.md
@@ -485,7 +487,8 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
 │   ├── 南航编译原理期末考试样卷.pdf
 │   └── 复试相关资料共享.md
 ├── 推荐书籍
-│   └── Modern Operating Systems - 4th Edition.pdf
+│   ├── Modern Operating Systems - 4th Edition.pdf
+│   └── 数学之美.pdf
 ├── 经验贴
 │   ├── 20届后南航计算机考研变化.md
 │   ├── 20届第二次考研讲座手稿.md
@@ -558,6 +561,7 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
     ├── 天天整这玩意.jpg
     ├── 扫描二维码，颠覆你的考研观.jpg
     ├── 识别二维码，告诉你真理.jpg
+    ├── 跟着我考南航计算机，清清爽爽.png
     └── 震惊，考南航计算机竟然不知道这个.png
 ```
 
