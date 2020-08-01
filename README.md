@@ -175,6 +175,14 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
   * 《大话数据结构》 2020届学长推荐，跨考或者基础不好的同学可以看看
   * 《数学之美》
   * 《浪潮之巅》
+  
+* **辅助视频**
+
+  * 袁春风 B 站视频：https://b23.tv/2soS9M  https://b23.tv/vPvD7i
+  * 王道 B 站视频：
+    * 操作系统：https://www.bilibili.com/video/BV1YE411D7nH
+    * 数据结构：https://www.bilibili.com/video/BV1b7411N798
+    * 计组：https://www.bilibili.com/video/BV1BE411D7ii
 
 ## B站南航计算机考研讲座视频
 
