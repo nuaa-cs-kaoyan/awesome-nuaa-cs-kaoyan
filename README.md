@@ -150,6 +150,8 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
 
     汤小丹，梁红兵，哲凤屏，汤子瀛，《计算机操作系统》（第三版），西安电子科技大学出版社，2007年5月
 
+    （如果买不到第三版的书，用第四版也行）
+
   * 数据结构参考书
 
     严蔚敏、吴伟民 编著，《数据结构（C）语言版》 清华大学出版社，2007年
@@ -162,7 +164,7 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
 
   * 计算机组成与系统结构习题解答和教学指导-第二版 袁春风 （必买，出过原题）
   * 数据结构题集-严蔚敏
-  * 计算机操作系统（第四版）学习指导与题解 汤小丹
+  * 计算机操作系统（第三版）学习指导与题解 汤小丹
   
 * **习题集**
 
@@ -173,6 +175,14 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
   * 《大话数据结构》 2020届学长推荐，跨考或者基础不好的同学可以看看
   * 《数学之美》
   * 《浪潮之巅》
+  
+* **辅助视频**
+
+  * 袁春风 B 站视频：https://b23.tv/2soS9M  https://b23.tv/vPvD7i
+  * 王道 B 站视频：
+    * 操作系统：https://www.bilibili.com/video/BV1YE411D7nH
+    * 数据结构：https://www.bilibili.com/video/BV1b7411N798
+    * 计组：https://www.bilibili.com/video/BV1BE411D7ii
 
 ## B站南航计算机考研讲座视频
 
