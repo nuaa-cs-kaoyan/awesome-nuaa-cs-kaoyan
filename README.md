@@ -31,6 +31,11 @@ Awesome-NUAA-CS-Kaoyan
 
 Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
 
+## 2022 届计算机考研最新通知
+
+* 熊二学长会继续做 2022 届的南航计算机考研辅导！
+* 2022 届的 qq 群号为：**1097698796**
+
 ## <font color="red">21 届计算机考研最新通知 </font>
 
 * [**20 届后南航计算机考研变化分析**](经验贴/20届后南航计算机考研变化.md)
