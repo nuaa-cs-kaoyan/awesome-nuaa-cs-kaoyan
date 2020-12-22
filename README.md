@@ -4,6 +4,7 @@ Awesome-NUAA-CS-Kaoyan
  [![github](https://img.shields.io/github/stars/nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan.svg)](https://github.com/nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan) 
 
    * [Awesome-NUAA-CS-Kaoyan](#awesome-nuaa-cs-kaoyan)
+         * [2022 届计算机考研最新通知](#2022 届计算机考研最新通知)
       * [21 届计算机考研最新通知 ](#21-届计算机考研最新通知-)
       * [Inspiration](#inspiration)
       * [About me](#about-me)
@@ -309,6 +310,12 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
 ## 复试相关资料共享
 
 [复试相关资料共享](复试相关资料共享)
+
+复试的考核（300 分）：
+
+* 离散数学 + 编译原理：100 分
+* 英语听力：50 分
+* 面试：150 分
 
 包括：
 
