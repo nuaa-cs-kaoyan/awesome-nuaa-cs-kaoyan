@@ -76,9 +76,9 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
   * [南航18级计算机复试面试题和面试问答](http://www.cskaoyan.com/thread-649395-1-1.html)
   * [南航计算机考研真题答案!没错!是答案!答案!答案!](http://www.cskaoyan.com/thread-643443-1-1.html) 
   * Others
-* **考研专业课资料地址**
-  * 微店：https://k.weidian.com/a0lQclaM （[21届南航计算机考研资料](https://k.weidian.com/a0lQclaM )）
-  * 拼多多: https://mobile.yangkeduo.com/goods2.html?goods_id=86968936251
+* **2022 考研专业课资料地址**
+  * 微店：https://k.koudai.com/d320yHBl
+  * 拼多多: https://mobile.yangkeduo.com/goods2.html?goods_id=211087632444&pdd_bapp_share_channel=copy_link&pdd_bapp_share_from=web
 * **南航计算机考研辅导历史**
   * 2017-02 考研出分，总分 400+，专业课成绩 135+
   * 2017-04 在[王道论坛](http://www.cskaoyan.com/thread-642848-1-1.html)分享考研经验，并开始编写南航计算机考研资料
