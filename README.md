@@ -4,7 +4,7 @@ Awesome-NUAA-CS-Kaoyan
  [![github](https://img.shields.io/github/stars/nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan.svg)](https://github.com/nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan) 
 
    * [Awesome-NUAA-CS-Kaoyan](#awesome-nuaa-cs-kaoyan)
-       * [2022 届计算机考研最新通知](#2022 届计算机考研最新通知)
+       * [2022 届计算机考研最新通知](#2022-届计算机考研最新通知)
       * [21 届计算机考研最新通知 ](#21-届计算机考研最新通知-)
       * [Inspiration](#inspiration)
       * [About me](#about-me)
