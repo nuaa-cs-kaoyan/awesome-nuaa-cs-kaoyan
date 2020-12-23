@@ -60,7 +60,6 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
 
 
 
-
 * **熊二学长(个人经营) / 17级南航计算机高分学长(417分) / QQ: 321556185** 
 * **Bilibili 专栏 Up 主**：[【大大卷点点心】](https://www.bilibili.com/read/cv4606513 )
 * **知乎专栏**：[【南航计算机考研】](https://zhuanlan.zhihu.com/c_1226188578315042816)
