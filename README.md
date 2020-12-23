@@ -54,16 +54,10 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
 
 ## About me
 
-<div align="left">
-    <img src="/assets/321556185.jpg" width=20% height=20% />
-    <img src="/assets/微信.jpg" width=20% height=20% />
-    <img src="/assets/21考研群.jpg" width=20% height=20% />
-    <img src="/assets/微店.png" width=20% height=20% />
-    <img src="/assets/拼多多.png" width=20% height=20% />
-    <img src="/assets/王道论坛.png" width=20% height=20% />
-    <img src="/assets/Github.png" width=20% height=20% />
-    <img src="/assets/大大卷点点心の二维码.png" width=20% height=20% />   
-</div>
+| <img src="assets/321556185.jpg" alt="qq" style="zoom: 67%;" /><br />QQ: 321556185 | <img src="assets/image-20201223100525498.png" alt="image-20201223100525498" style="zoom: 50%;" /><br />2022 南航计算机考研 QQ 群：1097698796 | <img src="assets/image-20201223100927365.png" alt="image-20201223100927365" style="zoom:30%;" /><br />Github |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="assets/image-20201223100637635.png" alt="image-20201223100637635" style="zoom: 67%;" /><br />**微店购买链接** | <img src="assets/image-20201223100622858.png" alt="image-20201223100622858" style="zoom: 80%;" /><br />**拼多多资料购买链接** | <img src="assets/大大卷点点心の二维码.png" alt="bilibili" style="zoom:67%;" /><br />**哔哩哔哩 求关注** |
+
 
 
 
@@ -78,7 +72,7 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
   * Others
 * **2022 考研专业课资料地址**
   * 微店：https://k.koudai.com/d320yHBl
-  * 拼多多: https://mobile.yangkeduo.com/goods2.html?goods_id=211087632444&pdd_bapp_share_channel=copy_link&pdd_bapp_share_from=web
+  * 拼多多: https://mobile.yangkeduo.com/goods2.html?goods_id=211087632444
 * **南航计算机考研辅导历史**
   * 2017-02 考研出分，总分 400+，专业课成绩 135+
   * 2017-04 在[王道论坛](http://www.cskaoyan.com/thread-642848-1-1.html)分享考研经验，并开始编写南航计算机考研资料
@@ -89,6 +83,7 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
   * 2019-02 [20级南航计算机考研辅导资料](https://k.weidian.com/a0lQclaM) 编写完成，开始辅导 20级南航计算机考研
   * 2019-10 开始编写 829 计算机组成原理的解析
   * 2020-02 面向 2021 届的 829 专业课资料编写完成，加入计算机组成原理解析
+  * 2020-12 资料全面改版，面向 2022 考生
 
 ## 南航计算机招生情况/复录比
 
