@@ -54,9 +54,9 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
 
 ## About me
 
-| <img src="assets/321556185.jpg" alt="qq"  /><br />QQ: 321556185 | <img src="assets/image-20201223100525498.png" alt="image-20201223100525498"  /><br />2022 南航计算机考研 QQ 群：1097698796 | <img src="assets/image-20201223100927365.png" alt="image-20201223100927365" style="zoom: 33%;" /><br />Github |
+| <img src="assets/321556185.jpg" alt="qq"  /><br />QQ: 321556185 | <img src="assets/image-20201223100525498.png" alt="image-20201223100525498"  /><br />2022 南航计算机考研 QQ 群：1097698796 | <img src="assets/image-20201223100927365.png" alt="image-20201223100927365" style="zoom: 25%;" /><br />Github |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="assets/image-20201223100637635.png" alt="image-20201223100637635"  /><br />**微店购买链接** | <img src="assets/image-20201223100622858.png" alt="image-20201223100622858"  /><br />**拼多多资料购买链接** | <img src="assets/大大卷点点心の二维码.png" alt="bilibili" style="zoom: 33%;" /><br />**哔哩哔哩 求关注** |
+| <img src="assets/image-20201223100637635.png" alt="image-20201223100637635"  /><br />**微店购买链接** | <img src="assets/image-20201223100622858.png" alt="image-20201223100622858"  /><br />**拼多多资料购买链接** | <img src="assets/大大卷点点心の二维码.png" alt="bilibili" style="zoom: 25%;" /><br />**哔哩哔哩 求关注** |
 
 
 
