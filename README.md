@@ -55,6 +55,8 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
 
 ## About me
 
+<img align="left" src="assets/1582424010702.png" alt="我的考研成绩" style="zoom:80%;" />
+
 | <img src="assets/321556185.jpg" alt="qq"  /><br />QQ: 321556185 | <img src="assets/image-20201223100525498.png" alt="image-20201223100525498"  /><br />2022 南航计算机考研 QQ 群：1097698796 | <img src="assets/image-20201223100927365.png" alt="image-20201223100927365"  /><br />Github |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![image-20201223121217198](assets/image-20201223121217198.png)<br />**微店购买链接** | ![image-20201223121150347](assets/image-20201223121150347.png)<br />**拼多多资料购买链接** | <img src="assets/大大卷点点心の二维码.png" alt="bilibili"  /><br />**哔哩哔哩 求关注** |
