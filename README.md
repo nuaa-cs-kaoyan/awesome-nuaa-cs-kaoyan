@@ -75,6 +75,11 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
 * **2022 考研专业课资料地址**
   * 微店：https://k.koudai.com/d320yHBl
   * 拼多多: https://mobile.yangkeduo.com/goods2.html?goods_id=211087632444
+* **增值服务**
+  * 免费提供从初试到复试的全程专业课答疑
+  * 免费提供复试相关资料
+  * 免费提供从初试到研究生毕业的全程咨询，包括如何科研(熊二学长的毕业论文是2020校优秀论文)
+  * 考上研后，可以加学长微信，提供科研咨询，找工作的咨询，条件允许可以内推互联网大厂
 * **南航计算机考研辅导历史**
   * 2017-02 考研出分，总分 400+，专业课成绩 135+
   * 2017-04 在[王道论坛](http://www.cskaoyan.com/thread-642848-1-1.html)分享考研经验，并开始编写南航计算机考研资料
@@ -215,6 +220,14 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
   <div align="left">
       <a href="https://www.bilibili.com/video/BV1zV411f7oc/">
       	<img src="assets/第四次直播-全面了解南航计算机考研.png" width=40% height=40% />
+      </a>
+  </div>
+
+* [【南航计算机考研】2022-南航计算机考研-答疑](https://www.bilibili.com/video/BV1VK4y1U7Gz)
+
+  <div align="left">
+      <a href="https://www.bilibili.com/video/BV1VK4y1U7Gz/">
+      	<img src="assets/image-20210325073543624.png" width=40% height=40% />
       </a>
   </div>
 
