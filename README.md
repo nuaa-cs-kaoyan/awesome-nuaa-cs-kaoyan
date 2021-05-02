@@ -260,6 +260,14 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
       </a>
   </div>
 
+* [【南航计算机考研】答疑-录取结果分析](https://www.bilibili.com/video/BV1MK4y1N7Er) 
+
+  <div align="left">
+      <a href="https://www.bilibili.com/video/BV1MK4y1N7Er">
+      	<img src="assets/南航计算机考研-答疑-录取结果分析.png" width=40% height=40% />
+      </a>
+  </div>
+
 * [【南航计算机考研】2022-南航计算机考研-答疑](https://www.bilibili.com/video/BV1VK4y1U7Gz)
 
   <div align="left">
