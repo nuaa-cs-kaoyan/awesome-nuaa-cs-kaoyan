@@ -1,6 +1,8 @@
 Awesome-NUAA-CS-Kaoyan
 =================
 
+<img align="left" src="assets/image-20210604081802014.png" alt="image-20210604081802014" style="zoom: 60%;" />
+
  [![github](https://img.shields.io/github/stars/nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan.svg)](https://github.com/nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan) 
 
    * [Awesome-NUAA-CS-Kaoyan](#awesome-nuaa-cs-kaoyan)
@@ -27,8 +29,6 @@ Awesome-NUAA-CS-Kaoyan
       * [Organization](#organization)
 
 
-
-<img align="left" src="assets/image-20210604081802014.png" alt="image-20210604081802014" style="zoom: 60%;" />
 
 南航计算机考研 **专业课资料** 和 **信息汇总**.
 
