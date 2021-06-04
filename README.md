@@ -28,6 +28,8 @@ Awesome-NUAA-CS-Kaoyan
 
 
 
+<img align="left" src="assets/image-20210604081802014.png" alt="image-20210604081802014" style="zoom: 60%;" />
+
 南航计算机考研 **专业课资料** 和 **信息汇总**.
 
 Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
