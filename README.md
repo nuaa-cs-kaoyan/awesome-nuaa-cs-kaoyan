@@ -67,7 +67,7 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
 
 | <img src="assets/321556185.jpg" alt="qq"  /><br />QQ: 321556185 | <img src="assets/image-20201223100525498.png" alt="image-20201223100525498"  /><br />2022 南航计算机考研 QQ 群：1097698796 | <img src="assets/image-20201223100927365.png" alt="image-20201223100927365"  /><br />Github |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![image-20201223121217198](assets/image-20201223121217198.png)<br />**微店购买链接** | ![image-20201223121150347](assets/image-20201223121150347.png)<br />**拼多多资料购买链接** | <img src="assets/大大卷点点心の二维码.png" alt="bilibili"  /><br />**哔哩哔哩 求关注** |
+| ![image-20201223121217198](assets/image-20201223121217198.png)<br />**微店购买链接** | ![image-20210828104832240](assets/image-20210828104832240.png)<br />**拼多多资料购买链接** | <img src="assets/大大卷点点心の二维码.png" alt="bilibili"  /><br />**哔哩哔哩 求关注** |
 
 **如果需要专业课资料快速提分，可以直接加我微信，转账给我，然后告知我快递信息**：
 
@@ -88,7 +88,7 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
   * Others
 * **2022 考研专业课资料地址**
   * 微店：https://k.koudai.com/d320yHBl
-  * 拼多多: https://mobile.yangkeduo.com/goods2.html?goods_id=211087632444
+  * 拼多多: https://mobile.yangkeduo.com/goods.html?goods_id=273557458581
 * **增值服务**
   * 免费提供从初试到复试的全程专业课答疑
   * 免费提供复试相关资料
