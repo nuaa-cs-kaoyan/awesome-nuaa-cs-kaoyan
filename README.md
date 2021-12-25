@@ -1,4 +1,4 @@
-Awesome-NUAA-CS-Kaoyan
+熊二学长-南航计算机考研 829 - 从入门到精通
 =================
 
 <img align="left" src="assets/封面.png" alt="封面" style="zoom:99%;" />
@@ -9,6 +9,7 @@ Awesome-NUAA-CS-Kaoyan
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Content**
 
+- [2023 南航计算机考研](#2023-%E5%8D%97%E8%88%AA%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%80%83%E7%A0%94)
 - [2022 届计算机考研最新通知](#2022-%E5%B1%8A%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%80%83%E7%A0%94%E6%9C%80%E6%96%B0%E9%80%9A%E7%9F%A5)
 - [<font color="red">21 届计算机考研最新通知 </font>](#font-colorred21-%E5%B1%8A%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%80%83%E7%A0%94%E6%9C%80%E6%96%B0%E9%80%9A%E7%9F%A5-font)
 - [Inspiration](#inspiration)
@@ -28,6 +29,7 @@ Awesome-NUAA-CS-Kaoyan
 - [经验贴](#%E7%BB%8F%E9%AA%8C%E8%B4%B4)
 - [复试相关资料共享](#%E5%A4%8D%E8%AF%95%E7%9B%B8%E5%85%B3%E8%B5%84%E6%96%99%E5%85%B1%E4%BA%AB)
 - [文件目录树](#%E6%96%87%E4%BB%B6%E7%9B%AE%E5%BD%95%E6%A0%91)
+- [为什么建议大家买专业课复习资料](#%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E4%B9%B0%E4%B8%93%E4%B8%9A%E8%AF%BE%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99)
 - [Surprise](#surprise)
 - [LICENSE](#license)
 - [Organization](#organization)
@@ -42,11 +44,12 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
 
 
 
-## [为什么建议大家买专业课复习资料](南航计算机考研讲座/二十六：为什么建议买专业复习资料.md)
+
 
 ## 2023 南航计算机考研
 
-* **qq 群：155046050**
+* **熊二学长会继续做 2023 届的南航计算机考研辅导**
+* **2023 南航计算机考研 qq 群：155046050**
 
 ## 2022 届计算机考研最新通知
 
@@ -723,6 +726,8 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
 ├── LICENSE
 └── 829介绍.pdf
 ```
+
+## [为什么建议大家买专业课复习资料](南航计算机考研讲座/二十六：为什么建议买专业复习资料.md)
 
 ## Surprise
 
