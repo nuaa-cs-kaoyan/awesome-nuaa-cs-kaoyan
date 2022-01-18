@@ -17,6 +17,7 @@
 - [南航计算机招生情况/复录比](#%E5%8D%97%E8%88%AA%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8B%9B%E7%94%9F%E6%83%85%E5%86%B5%E5%A4%8D%E5%BD%95%E6%AF%94)
 - [2021 最新复试规则](#2021-%E6%9C%80%E6%96%B0%E5%A4%8D%E8%AF%95%E8%A7%84%E5%88%99)
 - [专业课复习需要用到的书](#%E4%B8%93%E4%B8%9A%E8%AF%BE%E5%A4%8D%E4%B9%A0%E9%9C%80%E8%A6%81%E7%94%A8%E5%88%B0%E7%9A%84%E4%B9%A6)
+- [南航计算机考研讲座](#%E5%8D%97%E8%88%AA%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%80%83%E7%A0%94%E8%AE%B2%E5%BA%A7)
 - [B站南航计算机考研讲座视频](#b%E7%AB%99%E5%8D%97%E8%88%AA%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%80%83%E7%A0%94%E8%AE%B2%E5%BA%A7%E8%A7%86%E9%A2%91)
 - [专业课真题和考纲](#%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%9C%9F%E9%A2%98%E5%92%8C%E8%80%83%E7%BA%B2)
 - [专业课资料](#%E4%B8%93%E4%B8%9A%E8%AF%BE%E8%B5%84%E6%96%99)
@@ -260,6 +261,8 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
 
 ![image-20210404201011444](assets/image-20210404201011444.png)
 
+
+
 ## 专业课复习需要用到的书
 
 | 数据结构                                                     | 操作系统                                                     | 计组                                                         |
@@ -313,6 +316,46 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
     * 数据结构：https://www.bilibili.com/video/BV1b7411N798
     * 计组：https://www.bilibili.com/video/BV1BE411D7ii
 
+
+
+## 南航计算机考研讲座
+
+* [一：考研之前该干什么.md](https://gitee.com/wansho/awesome-nuaa-cs-kaoyan/blob/master/南航计算机考研讲座/一：考研之前该干什么.md)
+* [二：考研真相.md](https://gitee.com/wansho/awesome-nuaa-cs-kaoyan/blob/master/南航计算机考研讲座/二：考研真相.md)
+* [三：跨专业考研.md](https://gitee.com/wansho/awesome-nuaa-cs-kaoyan/blob/master/南航计算机考研讲座/三：跨专业考研.md)
+* [四：2020 届同学考研结果分析汇总.md](https://gitee.com/wansho/awesome-nuaa-cs-kaoyan/blob/master/南航计算机考研讲座/四：2020 届同学考研结果分析汇总.md)
+* [五：考研真相-关于考研的朴素道理.md](https://gitee.com/wansho/awesome-nuaa-cs-kaoyan/blob/master/南航计算机考研讲座/五：考研真相-关于考研的朴素道理.md)
+* [六：用经济学原理分析考研.md](https://gitee.com/wansho/awesome-nuaa-cs-kaoyan/blob/master/南航计算机考研讲座/六：用经济学原理分析考研.md)
+* [七：为什么现在就要开始准备考研.md](https://gitee.com/wansho/awesome-nuaa-cs-kaoyan/blob/master/南航计算机考研讲座/七：为什么现在就要开始准备考研.md)
+* [八：关于南航计算机考研的谣言.pdf](https://gitee.com/wansho/awesome-nuaa-cs-kaoyan/blob/master/南航计算机考研讲座/八：关于南航计算机考研的谣言.pdf)
+* [九：直播备稿.md](https://gitee.com/wansho/awesome-nuaa-cs-kaoyan/blob/master/南航计算机考研讲座/九：直播备稿.md)
+* [十：那些考上的同学们.md](https://gitee.com/wansho/awesome-nuaa-cs-kaoyan/blob/master/南航计算机考研讲座/十：那些考上的同学们.md)
+* [十一：疫情期间的考研.md](https://gitee.com/wansho/awesome-nuaa-cs-kaoyan/blob/master/南航计算机考研讲座/十一：疫情期间的考研.md)
+* [十二：读研真相.md](https://gitee.com/wansho/awesome-nuaa-cs-kaoyan/blob/master/南航计算机考研讲座/十二：读研真相.md)
+* [十三：考研之外的一些事情.md](https://gitee.com/wansho/awesome-nuaa-cs-kaoyan/blob/master/南航计算机考研讲座/十三：考研之外的一些事情.md)
+* [十四：2020届复试分析.md](https://gitee.com/wansho/awesome-nuaa-cs-kaoyan/blob/master/南航计算机考研讲座/十四：2020届复试分析.md)
+* [十五：准研究生建议.md](https://gitee.com/wansho/awesome-nuaa-cs-kaoyan/blob/master/南航计算机考研讲座/十五：准研究生建议.md)
+* [十六：2021届招生计划.md](https://gitee.com/wansho/awesome-nuaa-cs-kaoyan/blob/master/南航计算机考研讲座/十六：2021届招生计划.md)
+* [十七：2022 南航计算机考研分析.md](https://gitee.com/wansho/awesome-nuaa-cs-kaoyan/blob/master/南航计算机考研讲座/十七：2022 南航计算机考研分析.md)
+* [十八：2021 计算机真题分析.md](https://gitee.com/wansho/awesome-nuaa-cs-kaoyan/blob/master/南航计算机考研讲座/十八：2021 计算机真题分析.md)
+* [十九：2021 复试名单分析.md](https://gitee.com/wansho/awesome-nuaa-cs-kaoyan/blob/master/南航计算机考研讲座/十九：2021 复试名单分析.md)
+* [二十：2021 南航计算机考研录取结果分析.md](https://gitee.com/wansho/awesome-nuaa-cs-kaoyan/blob/master/南航计算机考研讲座/二十：2021 南航计算机考研录取结果分析.md)
+* [二十一：6月应该考虑的一些事情.md](https://gitee.com/wansho/awesome-nuaa-cs-kaoyan/blob/master/南航计算机考研讲座/二十一：6月应该考虑的一些事情.md)
+* [二十二：改考 408？.md](https://gitee.com/wansho/awesome-nuaa-cs-kaoyan/blob/master/南航计算机考研讲座/二十二：改考 408？.md)
+* [二十三：考研，九月.md](https://gitee.com/wansho/awesome-nuaa-cs-kaoyan/blob/master/南航计算机考研讲座/二十三：考研，九月.md)
+* [二十四：历年编程题分析.md](https://gitee.com/wansho/awesome-nuaa-cs-kaoyan/blob/master/南航计算机考研讲座/二十四：历年编程题分析.md)
+* [二十五：真题的重要性.md](https://gitee.com/wansho/awesome-nuaa-cs-kaoyan/blob/master/南航计算机考研讲座/二十五：真题的重要性.md)
+* [二十六：为什么建议买专业复习资料.md](https://gitee.com/wansho/awesome-nuaa-cs-kaoyan/blob/master/南航计算机考研讲座/二十六：为什么建议买专业复习资料.md)
+* [二十七：有竞赛和项目才能考南航计算机？.md](https://gitee.com/wansho/awesome-nuaa-cs-kaoyan/blob/master/南航计算机考研讲座/二十七：有竞赛和项目才能考南航计算机？.md)
+* [二十八：招生计划与实际录取人数.md](https://gitee.com/wansho/awesome-nuaa-cs-kaoyan/blob/master/南航计算机考研讲座/二十八：招生计划与实际录取人数.md)
+* [二十九：初试后该干什么.md](https://gitee.com/wansho/awesome-nuaa-cs-kaoyan/blob/master/南航计算机考研讲座/二十九：初试后该干什么.md)
+* [三十：2022初试专业课总结.md](https://gitee.com/wansho/awesome-nuaa-cs-kaoyan/blob/master/南航计算机考研讲座/三十：2022初试专业课总结.md)
+* [三十一：疫情期间的复试.md](https://gitee.com/wansho/awesome-nuaa-cs-kaoyan/blob/master/南航计算机考研讲座/三十一：疫情期间的复试.md)
+* [三十二：复试怎么补充专业课知识.md](https://gitee.com/wansho/awesome-nuaa-cs-kaoyan/blob/master/南航计算机考研讲座/三十二：复试怎么补充专业课知识.md)
+* [三十三：考研专业课到底难不难.md](https://gitee.com/wansho/awesome-nuaa-cs-kaoyan/blob/master/南航计算机考研讲座/三十三：考研专业课到底难不难.md)
+
+
+
 ## B站南航计算机考研讲座视频
 
 * [【南航计算机考研】全面了解南航计算机考研](https://www.bilibili.com/video/BV1zV411f7oc/) 
@@ -363,9 +406,13 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
       </a>
   </div>
 
+
+
 ## 专业课真题和考纲
 
 [专业课真题10—18](https://github.com/wansho/awesome-nuaa-cs-postgraduate-exam/tree/master/%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%9C%9F%E9%A2%98) 包括 922 和 829 的真题。还有 2020 届的真题。
+
+
 
 ## 专业课资料
 
