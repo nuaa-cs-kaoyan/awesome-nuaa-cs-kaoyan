@@ -1,44 +1,7 @@
-熊二学长-南航计算机考研 829 - 从入门到精通
+熊二学长-南航计算机考研 829
 =================
 
-<img align="left" src="assets/封面.png" alt="封面" style="zoom:99%;" />
-
  [![github](https://img.shields.io/github/stars/nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan.svg)](https://github.com/nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan) 
-
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Content**
-
-- [2023 南航计算机考研](#2023-%E5%8D%97%E8%88%AA%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%80%83%E7%A0%94)
-- [2022 届计算机考研最新通知](#2022-%E5%B1%8A%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%80%83%E7%A0%94%E6%9C%80%E6%96%B0%E9%80%9A%E7%9F%A5)
-- [<font color="red">21 届计算机考研最新通知 </font>](#font-colorred21-%E5%B1%8A%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%80%83%E7%A0%94%E6%9C%80%E6%96%B0%E9%80%9A%E7%9F%A5-font)
-- [Inspiration](#inspiration)
-- [About me](#about-me)
-- [南航计算机招生情况/复录比](#%E5%8D%97%E8%88%AA%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8B%9B%E7%94%9F%E6%83%85%E5%86%B5%E5%A4%8D%E5%BD%95%E6%AF%94)
-- [2021 最新复试规则](#2021-%E6%9C%80%E6%96%B0%E5%A4%8D%E8%AF%95%E8%A7%84%E5%88%99)
-- [专业课复习需要用到的书](#%E4%B8%93%E4%B8%9A%E8%AF%BE%E5%A4%8D%E4%B9%A0%E9%9C%80%E8%A6%81%E7%94%A8%E5%88%B0%E7%9A%84%E4%B9%A6)
-- [南航计算机考研讲座](#%E5%8D%97%E8%88%AA%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%80%83%E7%A0%94%E8%AE%B2%E5%BA%A7)
-- [B站南航计算机考研讲座视频](#b%E7%AB%99%E5%8D%97%E8%88%AA%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%80%83%E7%A0%94%E8%AE%B2%E5%BA%A7%E8%A7%86%E9%A2%91)
-- [专业课真题和考纲](#%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%9C%9F%E9%A2%98%E5%92%8C%E8%80%83%E7%BA%B2)
-- [专业课资料](#%E4%B8%93%E4%B8%9A%E8%AF%BE%E8%B5%84%E6%96%99)
-  - [第一本资料目录](#%E7%AC%AC%E4%B8%80%E6%9C%AC%E8%B5%84%E6%96%99%E7%9B%AE%E5%BD%95)
-  - [第二本资料目录](#%E7%AC%AC%E4%BA%8C%E6%9C%AC%E8%B5%84%E6%96%99%E7%9B%AE%E5%BD%95)
-  - [资料样本](#%E8%B5%84%E6%96%99%E6%A0%B7%E6%9C%AC)
-  - [资料适用对象](#%E8%B5%84%E6%96%99%E9%80%82%E7%94%A8%E5%AF%B9%E8%B1%A1)
-  - [资料质量证明](#%E8%B5%84%E6%96%99%E8%B4%A8%E9%87%8F%E8%AF%81%E6%98%8E)
-- [历届学长学姐考研笔记分享计划](#%E5%8E%86%E5%B1%8A%E5%AD%A6%E9%95%BF%E5%AD%A6%E5%A7%90%E8%80%83%E7%A0%94%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB%E8%AE%A1%E5%88%92)
-- [信息汇总](#%E4%BF%A1%E6%81%AF%E6%B1%87%E6%80%BB)
-- [经验贴](#%E7%BB%8F%E9%AA%8C%E8%B4%B4)
-- [复试相关资料共享](#%E5%A4%8D%E8%AF%95%E7%9B%B8%E5%85%B3%E8%B5%84%E6%96%99%E5%85%B1%E4%BA%AB)
-- [文件目录树](#%E6%96%87%E4%BB%B6%E7%9B%AE%E5%BD%95%E6%A0%91)
-- [为什么建议大家买专业课复习资料](#%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E4%B9%B0%E4%B8%93%E4%B8%9A%E8%AF%BE%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99)
-- [Surprise](#surprise)
-- [LICENSE](#license)
-- [Organization](#organization)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-
 
 南航计算机考研 **专业课资料** 和 **信息汇总**。**授人以鱼，也授人以渔。**
 
