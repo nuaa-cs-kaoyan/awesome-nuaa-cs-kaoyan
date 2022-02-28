@@ -86,7 +86,7 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
 
 | 拼多多                                                       | 微店                                                   |
 | ------------------------------------------------------------ | ------------------------------------------------------ |
-| ![拼多多](assets/2023 拼多多二维码.jpg)                      | ![image-20201223121217198](assets/2023-微店二维码.jpg) |
+| ![拼多多](assets/2023-拼多多二维码.jpg)                      | ![image-20201223121217198](assets/2023-微店二维码.jpg) |
 | https://mobile.yangkeduo.com/goods.html?goods_id=273557458581 | https://k.koudai.com/d320yHBl                          |
 
 
