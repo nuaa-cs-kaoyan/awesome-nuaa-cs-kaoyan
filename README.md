@@ -1,7 +1,9 @@
 熊二学长-南航计算机考研 829 - 从入门到精通
 =================
 
-<img align="left" src="assets/封面.png" alt="封面" style="zoom:99%;" />
+
+
+![封面](assets/封面.png)
 
  [![github](https://img.shields.io/github/stars/nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan.svg)](https://github.com/nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan) 
 
@@ -22,7 +24,8 @@
   - [2018 届统考数据](#2018-%E5%B1%8A%E7%BB%9F%E8%80%83%E6%95%B0%E6%8D%AE)
   - [2017 届统考数据](#2017-%E5%B1%8A%E7%BB%9F%E8%80%83%E6%95%B0%E6%8D%AE)
   - [统考录取人数与985调剂人数对比](#%E7%BB%9F%E8%80%83%E5%BD%95%E5%8F%96%E4%BA%BA%E6%95%B0%E4%B8%8E985%E8%B0%83%E5%89%82%E4%BA%BA%E6%95%B0%E5%AF%B9%E6%AF%94)
-- [2021 最新复试规则](#2021-%E6%9C%80%E6%96%B0%E5%A4%8D%E8%AF%95%E8%A7%84%E5%88%99)
+- [2022最新复试规则](#2022%E6%9C%80%E6%96%B0%E5%A4%8D%E8%AF%95%E8%A7%84%E5%88%99)
+- [2021复试规则](#2021%E5%A4%8D%E8%AF%95%E8%A7%84%E5%88%99)
 - [专业课复习需要用到的书](#%E4%B8%93%E4%B8%9A%E8%AF%BE%E5%A4%8D%E4%B9%A0%E9%9C%80%E8%A6%81%E7%94%A8%E5%88%B0%E7%9A%84%E4%B9%A6)
 - [南航计算机考研讲座](#%E5%8D%97%E8%88%AA%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%80%83%E7%A0%94%E8%AE%B2%E5%BA%A7)
 - [B站南航计算机考研讲座视频](#b%E7%AB%99%E5%8D%97%E8%88%AA%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%80%83%E7%A0%94%E8%AE%B2%E5%BA%A7%E8%A7%86%E9%A2%91)
