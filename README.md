@@ -106,10 +106,10 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
 
 **购买链接**
 
-| 微信小商店                                                   | 拼多多                                                       | 微店                                                   |
+| 拼多多 - 三本                                                | 拼多多 - 两本                                                | 微店                                                   |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------ |
-| ![image-20220326085523720](assets/image-20220326085523720.png) | ![拼多多](assets/2023-拼多多二维码.jpg)                      | ![image-20201223121217198](assets/2023-微店二维码.jpg) |
-| 微信扫码下单（最方便）                                       | https://mobile.yangkeduo.com/goods.html?goods_id=273557458581 | https://k.koudai.com/d320yHBl                          |
+| ![image-20220523180128253](assets/image-20220523180128253.png) | ![拼多多](assets/2023-拼多多二维码.jpg)                      | ![image-20201223121217198](assets/2023-微店二维码.jpg) |
+| https://mobile.yangkeduo.com/goods2.html?goods_id=359310956360 | https://mobile.yangkeduo.com/goods.html?goods_id=273557458581 | https://k.koudai.com/d320yHBl                          |
 
 
 
@@ -123,9 +123,9 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
   * [南航计算机考研真题答案!没错!是答案!答案!答案!](http://www.cskaoyan.com/thread-643443-1-1.html) 
   * Others
 * **2023 考研专业课资料地址**
-  * 微信小商店：请用微信扫描上面的小程序二维码
   * 微店：https://k.koudai.com/d320yHBl
-  * 拼多多: https://mobile.yangkeduo.com/goods.html?goods_id=273557458581
+  * 拼多多 三本：https://mobile.yangkeduo.com/goods2.html?goods_id=359310956360
+  * 拼多多 两本: https://mobile.yangkeduo.com/goods.html?goods_id=273557458581
 * **增值服务**
   * 免费提供从初试到复试的全程专业课答疑
   * 免费提供复试相关资料
