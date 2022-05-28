@@ -111,7 +111,7 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
 | ![image-20220523180128253](assets/image-20220523180128253.png) | ![拼多多](assets/2023-拼多多二维码.jpg)                      | ![image-20201223121217198](assets/2023-微店二维码.jpg) |
 | https://mobile.yangkeduo.com/goods2.html?goods_id=359310956360 | https://mobile.yangkeduo.com/goods.html?goods_id=273557458581 | https://k.koudai.com/d320yHBl                          |
 
-
+![image-20220528101047365](assets/image-20220528101047365.png)
 
 * **熊二学长(个人经营) / 南航计算机高分学长(417分) / QQ: 321556185** 
 * **Bilibili 专栏 Up 主**：[【大大卷点点心】](https://www.bilibili.com/read/cv4606513 )
