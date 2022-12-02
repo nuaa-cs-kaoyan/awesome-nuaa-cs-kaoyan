@@ -70,9 +70,9 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
 
 * **2024 南航计算机考研 qq 群：717645993**
 
-  
+  ![2024-qq群](assets/image-20221103203111522.png)
 
-  <img align="left" src="assets/image-20221103203111522.png" alt="image-20221103203111522" style="zoom:50%;" />
+  
 
 
 
