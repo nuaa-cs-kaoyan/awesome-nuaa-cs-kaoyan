@@ -20,6 +20,7 @@
 - [2022 届计算机考研最新通知](#2022-%E5%B1%8A%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%80%83%E7%A0%94%E6%9C%80%E6%96%B0%E9%80%9A%E7%9F%A5)
 - [Inspiration](#inspiration)
 - [About me](#about-me)
+- [2024南航408考研讲座](#2024%E5%8D%97%E8%88%AA408%E8%80%83%E7%A0%94%E8%AE%B2%E5%BA%A7)
 - [南航计算机历年分数统计](#%E5%8D%97%E8%88%AA%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%86%E5%B9%B4%E5%88%86%E6%95%B0%E7%BB%9F%E8%AE%A1)
   - [2022 最新统计](#2022-%E6%9C%80%E6%96%B0%E7%BB%9F%E8%AE%A1)
   - [2021 统考-初复试总分-统计](#2021-%E7%BB%9F%E8%80%83-%E5%88%9D%E5%A4%8D%E8%AF%95%E6%80%BB%E5%88%86-%E7%BB%9F%E8%AE%A1)
@@ -164,6 +165,15 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
   * 2020-02 面向 2021 届的 829 专业课资料编写完成，加入计算机组成原理解析
   * 2020-12 资料全面改版，面向 2022 考生
 
+
+
+## 2024南航408考研讲座
+
+- [微信公众号 南航考408的话，要什么时候开始复习](https://mp.weixin.qq.com/s?__biz=MzUxMzQ4NjI3MA==&mid=2247484334&idx=1&sn=203d470d64e648c3ea965c1dfc84d032&chksm=f9553f7fce22b669ef78731c8bdbb0d1d200632cd82d70bca339b50afdb700f522a5ddc5d8ce&token=344121064&lang=zh_CN#rd)  [知乎](https://zhuanlan.zhihu.com/p/588549942)
+- 
+
+
+
 ## 南航计算机历年分数统计
 
 南航计算机自主命题，学硕和专硕都考 829，三门科目：
@@ -173,6 +183,8 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
 * 计算机组成原理
 
 ![image-20220416092915160](assets/image-20220416092915160.png)
+
+
 
 ### 2022 最新统计
 
