@@ -71,6 +71,8 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
 
 * **2024 南航计算机考研 qq 群：717645993**
 
+* **2024南航计算机考研答疑网站：http://www.nuaa-cs-kaoyan.top**
+
   ![2024-qq群](assets/image-20221103203111522.png)
 
   
@@ -124,6 +126,7 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
 | ![image-20220105193536136](assets/image-20220105193536136.png)<br />QQ: 321556185 | ![image-20211228143655081](assets/image-20211228143655081.png)<br />2023 南航计算机考研 QQ 群：155046050 | <img src="assets/image-20201223100927365.png" alt="image-20201223100927365"  /><br />Github |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![image-20201223121217198](assets/2023-微店二维码.jpg)<br />**微店购买链接** | ![image-20210828104832240](assets/image-20210828104832240.png)<br />**拼多多资料购买链接** | <img src="assets/大大卷点点心の二维码.png" alt="bilibili"  /><br />**哔哩哔哩 求关注** |
+| ![image-20221217124834560](assets/image-20221217124834560.png)<br />南航计算机考研问答网站 http://www.nuaa-cs-kaoyan.top |                                                              |                                                              |
 
 **购买链接**
 
