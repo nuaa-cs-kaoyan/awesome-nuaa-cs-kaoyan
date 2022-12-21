@@ -126,7 +126,7 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
 | ![image-20220105193536136](assets/image-20220105193536136.png)<br />QQ: 321556185 | ![image-20211228143655081](assets/image-20211228143655081.png)<br />2023 南航计算机考研 QQ 群：155046050 | <img src="assets/image-20201223100927365.png" alt="image-20201223100927365"  /><br />Github |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![image-20201223121217198](assets/2023-微店二维码.jpg)<br />**微店购买链接** | ![image-20210828104832240](assets/image-20210828104832240.png)<br />**拼多多资料购买链接** | <img src="assets/大大卷点点心の二维码.png" alt="bilibili"  /><br />**哔哩哔哩 求关注** |
-| ![image-20221217124834560](assets/image-20221217124834560.png)<br />南航计算机考研问答网站 http://www.nuaa-cs-kaoyan.top |                                                              |                                                              |
+| ![image-20221217124834560](assets/image-20221217124834560.png)<br />南航计算机考研问答网站 http://www.nuaa-cs-kaoyan.top | ![image-20221219191839366](assets/image-20221219191839366.png)<br />知乎专栏：南航计算机考研 | ![image-20221219192201331](assets/image-20221219192201331.png)<br />微信公众号：熊二学长 |
 
 **购买链接**
 
@@ -135,40 +135,28 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
 | ![image-20220523180128253](assets/image-20220523180128253.png) | ![拼多多](assets/2023-拼多多二维码.jpg)                      | ![image-20201223121217198](assets/2023-微店二维码.jpg) |
 | https://mobile.yangkeduo.com/goods2.html?goods_id=359310956360 | https://mobile.yangkeduo.com/goods.html?goods_id=273557458581 | https://k.koudai.com/d320yHBl                          |
 
-![image-20220528101047365](assets/image-20220528101047365.png)
+
 
 * **熊二学长(个人经营) / 南航计算机高分学长(417分) / QQ: 321556185** 
+
 * **Bilibili 专栏 Up 主**：[【大大卷点点心】](https://www.bilibili.com/read/cv4606513 )
+
 * **知乎专栏**：[【南航计算机考研】](https://zhuanlan.zhihu.com/c_1226188578315042816)
+
 * **王道论坛博主：熊二**
+  
   * [2017南航计算机考研经验贴](http://www.cskaoyan.com/thread-642848-1-1.html)
   * [南航计算机考研相关信息整理！免费公开！！](http://www.cskaoyan.com/thread-643825-1-1.html)
   * [南航18级计算机复试面试题和面试问答](http://www.cskaoyan.com/thread-649395-1-1.html)
-  * [南航计算机考研真题答案!没错!是答案!答案!答案!](http://www.cskaoyan.com/thread-643443-1-1.html) 
-  * Others
-* **2023 考研专业课资料地址**
-  * 微店：https://k.koudai.com/d320yHBl
-  * 拼多多 三本：https://mobile.yangkeduo.com/goods2.html?goods_id=359310956360
-  * 拼多多 两本: https://mobile.yangkeduo.com/goods.html?goods_id=273557458581
+  
 * **增值服务**
-  * 免费提供从初试到复试的全程专业课答疑
+  
+  * 免费提供从初试到复试的全程答疑
   * 免费提供复试相关资料
   * 免费提供从初试到研究生毕业的全程咨询，包括如何科研(熊二学长的毕业论文是2020校优秀论文)
   * 考上研后，可以加学长微信，提供科研咨询，找工作的咨询，条件允许可以内推互联网大厂
-  * 授人以鱼，也授人以渔，学长还开了一个冲刺 400 分的课，和大家分享复习方法和复习新的，买资料的同学可以免费进
-* **南航计算机考研辅导历史**
-  * 2017-02 考研出分，总分 417，专业课成绩 135+
-  * 2017-04 在[王道论坛](http://www.cskaoyan.com/thread-642848-1-1.html)分享考研经验，并开始编写南航计算机考研资料
-  * 2017-05 [18级南航计算机考研辅导资料](https://weidian.com/item.html?itemID=2105222705&ifr=itemdetail&wfr=c) 编写完成，开始辅导 18 级南航计算机考研
-  * 2017-12 18 考研学生反馈，专业课资料的必备考点，几乎全部命中了真题的简单题，好评如潮
-  * 2018-03 [19级南航计算机考研辅导资料](https://weidian.com/item.html?itemID=2242029324&ifr=itemdetail&wfr=c) 编写完成，开始辅导 19 级南航计算机考研
-  * 2018-12 19 考研学生反馈，专业课资料的必备考点，再次命中多道真题的简单题，再次好评如潮
-  * 2019-02 [20级南航计算机考研辅导资料](https://k.weidian.com/a0lQclaM) 编写完成，开始辅导 20级南航计算机考研
-  * 2019-10 开始编写 829 计算机组成原理的解析
-  * 2020-02 面向 2021 届的 829 专业课资料编写完成，加入计算机组成原理解析
-  * 2020-12 资料全面改版，面向 2022 考生
-
-
+  
+  
 
 ## 2024南航408考研讲座
 
