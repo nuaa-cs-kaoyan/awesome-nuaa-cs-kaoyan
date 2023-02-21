@@ -1,4 +1,4 @@
-熊二学长-南航计算机考研 829 - 从入门到精通
+熊二学长-南航计算机考研 408 
 =================
 
 ![image-20220416100954935](assets/image-20220416100954935.png)
@@ -158,11 +158,6 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
   
   
 
-## 2024南航408考研讲座
-
-- [微信公众号 南航考408的话，要什么时候开始复习](https://mp.weixin.qq.com/s?__biz=MzUxMzQ4NjI3MA==&mid=2247484334&idx=1&sn=203d470d64e648c3ea965c1dfc84d032&chksm=f9553f7fce22b669ef78731c8bdbb0d1d200632cd82d70bca339b50afdb700f522a5ddc5d8ce&token=344121064&lang=zh_CN#rd)  [知乎](https://zhuanlan.zhihu.com/p/588549942)
-- 
-
 
 
 ## 南航计算机历年分数统计
@@ -174,6 +169,10 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
 * 计算机组成原理
 
 ![image-20220416092915160](assets/image-20220416092915160.png)
+
+
+
+### 2023
 
 
 
