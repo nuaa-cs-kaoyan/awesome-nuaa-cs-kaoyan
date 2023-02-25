@@ -55,7 +55,7 @@
 
 
 
-南航计算机考研 **专业课资料** 和 **信息汇总**。**授人以鱼，也授人以渔。**
+南航计算机考研百科全书
 
 Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
 
@@ -69,13 +69,40 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
 
 * **2024南航计算机考研答疑网站：http://www.nuaa-cs-kaoyan.top**
 
-  ![2024-qq群](assets/image-20221103203111522.png)
+  <img align="left" src="assets/image-20221103203111522.png" alt="2024-qq群" style="zoom:33%;" />
 
-  
-
-
+<img align="left" src="assets/image-20230225141942180.png" alt="image-20230225141942180" style="zoom:50%;" />
 
 ----
+
+
+
+## 南航计算机考研简介
+
+总分 = 初试 500 分 `*` 50% + 复试 300 分 `*` 50%
+
+- 2024 专业课改考 408，公共课改不改，未知，大概率不会改
+
+- 初试
+
+  - 2024 以前：
+
+    学硕：数一，英一，政治，829
+    专硕：数二，英一，政治，829
+
+  - 2024：专业课408，公共课等待官方通知，预计还是和往年保持一致。
+
+    学硕：数一，英一，政治，408（学硕分为三个方向，计科、软工、网安）
+    专硕：未知(大概率保持不变)，未知(大概率保持不变)，政治，408
+
+- 复试（线下）
+
+  复试 300 分 = 100 分笔试（离散数学和编译原理）+ 200 分面试（150 分综合能力考察 + 50 分英语水平考察）
+
+  注意：
+  - 上述 200 分面试，每年可能都不太一样，19年之前还有英语听力的笔试，直接在离散数学和编译原理后面考，占 50 分，口罩三年主要是考察翻译和口语。
+  - 南航计算机复试往年无**上机考试**，至于以后有没有，不好说
+  - 2024 专业课改考 408，复试会不会大变，也不好说，做好准备即可，以不变应万变
 
 
 
@@ -95,23 +122,7 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
 
 
 
-
-## 2022 届计算机考研最新通知
-
-* 2022 南航计算机预计招生 400+ 人，包含保研名额，其中专硕招150左右，计算机学硕80-90，网安和软件40-50；去年保研了 140 人，2022 保研人数应该会增长，保守估计 2022 保研 200 名额，统考 200
-* **2022 南航计算机仍然考 829，招生目录已出 http://yzsbm.nuaa.edu.cn/sszsml/index.html**
-* **熊二学长会继续做 2022 届的南航计算机考研辅导**
-* **2022 届的 qq 群号为：1097698796**
-* **2022 届的专业课资料大更新，从 2021 届的（202+179=381页）增加到 2022 届的（224+197=421页），增加了 40 页新内容**
-
-
-
-## Inspiration
-
-* 提供南航计算机考研，top one 的专业课复习资料
-* 提供南航计算机考研，最详尽的信息
-
-## About me
+## 关于熊二
 
 | 学长初试分数                                                 | 微信公众号：熊二学长                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -124,14 +135,9 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
 | <br />**微店购买链接**                                       | <br />**拼多多资料购买链接**                                 | <img src="assets/大大卷点点心の二维码.png" alt="bilibili"  /><br />**哔哩哔哩 求关注** |
 | ![image-20221217124834560](assets/image-20221217124834560.png)<br />南航计算机考研问答网站 http://www.nuaa-cs-kaoyan.top | ![image-20221219191839366](assets/image-20221219191839366.png)<br />知乎专栏：南航计算机考研 | ![image-20221219192201331](assets/image-20221219192201331.png)<br />微信公众号：熊二学长 |
 
-**购买链接**
-
-| 拼多多 - 三本                                                | 拼多多 - 两本                                                | 微店                                                   |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------ |
-| ![image-20220523180128253](assets/image-20220523180128253.png) | ![拼多多](assets/2023-拼多多二维码.jpg)                      | ![image-20201223121217198](assets/2023-微店二维码.jpg) |
-| https://mobile.yangkeduo.com/goods2.html?goods_id=359310956360 | https://mobile.yangkeduo.com/goods.html?goods_id=273557458581 | https://k.koudai.com/d320yHBl                          |
 
 
+## 考研百科全书
 
 * **熊二学长(个人经营) / 南航计算机高分学长(417分) / QQ: 321556185** 
 
@@ -361,13 +367,51 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
 
 ## 专业课复习需要用到的书
 
-
-
-## 南航计算机考研讲座
+408 并没有指定指定官方教材。这篇文章里有推荐的书：[408需要买的书和看的视频](https://zhuanlan.zhihu.com/p/594517572)
 
 
 
-## B站南航计算机考研讲座视频
+## B站视频
+
+- [2023初试结束总结和答疑 （2024答疑）](https://www.bilibili.com/video/BV1rA411S78U)
+
+  <div align="left">
+      <a href="https://www.bilibili.com/video/BV1rA411S78U">
+      	<img src="assets/2023初试结束总结和答疑 （2024答疑）.png" width=40% height=40% />
+      </a>
+  </div>
+
+* [【南航计算机考研829答疑】关于招生计划，焦虑，真题](https://www.bilibili.com/video/BV1CP4y1d7Bt) 
+
+  <div align="left">
+      <a href="https://www.bilibili.com/video/BV1CP4y1d7Bt">
+      	<img src="assets/【南航计算机考研829答疑】关于招生计划，焦虑，真题.png" width=40% height=40% />
+      </a>
+  </div>
+
+* [复试怎么准备？改考408？歧视双非？跨专业考研怎么办？复试是什么形式？](https://www.bilibili.com/video/BV1r3411W7ft) 
+
+  <div align="left">
+      <a href="https://www.bilibili.com/video/BV1r3411W7ft">
+      	<img src="assets/复试怎么准备？改考408？歧视双非？跨专业考研怎么办？复试是什么形式？.png" width=40% height=40% />
+      </a>
+  </div>
+
+* [【考研真相】考研复习的朴素道理](https://www.bilibili.com/video/BV1vq4y1e793) 
+
+  <div align="left">
+      <a href="https://www.bilibili.com/video/BV1vq4y1e793">
+      	<img src="assets/【考研真相】考研复习的朴素道理.png" width=40% height=40% />
+      </a>
+  </div>
+
+* [考研，很多人一开始就已经输了](https://www.bilibili.com/video/BV1gT4y1D76H) 
+
+  <div align="left">
+      <a href="https://www.bilibili.com/video/BV1gT4y1D76H">
+      	<img src="assets/考研，很多人一开始就已经输了.png" width=40% height=40% />
+      </a>
+  </div>
 
 * [【南航计算机考研】全面了解南航计算机考研](https://www.bilibili.com/video/BV1zV411f7oc/) 
 
@@ -401,27 +445,8 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
       </a>
   </div>
 
-* [南航计算机考研-直播录播讨论](https://www.bilibili.com/video/av90697748)
+  
 
-  <div align="left">
-      <a href="https://www.bilibili.com/video/av90697748">
-      	<img src="assets/南航计算机考研-直播录播.png" width=40% height=40% />
-      </a>
-  </div>
-
-* [17 年讲座直播录播](https://www.bilibili.com/video/av59012167)
-
-  <div align="left">
-      <a href="https://www.bilibili.com/video/av59012167">
-      	<img src="assets/17年直播.png" width=40% height=40% />
-      </a>
-  </div>
-
-
-
-## 专业课真题和考纲
-
-[专业课真题10—18](https://github.com/wansho/awesome-nuaa-cs-postgraduate-exam/tree/master/%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%9C%9F%E9%A2%98) 包括 922 和 829 的真题。还有 2020 届的真题。
 
 
 
@@ -437,17 +462,15 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
 
 ### 资料样本
 
-专业课资料样本: [12年专业课数据结构和操作系统真题解析，13年计组真题解析](https://github.com/wansho/awesome-nuaa-cs-postgraduate-exam/tree/master/%E4%B8%93%E4%B8%9A%E8%AF%BE%E8%BE%85%E5%AF%BC%E8%B5%84%E6%96%99%E6%A0%B7%E6%9C%AC)
+
 
 ### 资料适用对象
 
-南航计算机考研学生。2020 届开始，南航计算机专业课统一考 829，不管学硕还是专硕，都考 829，学长已经在编计算机组成原理的解析，从 2021 届开始提供最完善的南航计算机考研辅导。
+
 
 
 
 ### 资料质量证明
-
-[历届考生口碑](https://gitee.com/wansho/awesome-nuaa-cs-kaoyan/tree/master/%E8%B5%84%E6%96%99%E8%B4%A8%E9%87%8F%E8%AF%81%E6%98%8E)
 
 
 
@@ -455,7 +478,6 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
 
 * [南航计算机考研信息汇总](https://github.com/wansho/awesome-nuaa-cs-postgraduate-exam/tree/master/%E5%8D%97%E8%88%AA%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%80%83%E7%A0%94%E4%BF%A1%E6%81%AF%E6%B1%87%E6%80%BB) 
 * 其他
-  * 王道论坛帖子：[2017南航计算机考研经验贴](http://www.cskaoyan.com/thread-642848-1-1.html) and others about NUAA
   * [南航研究生院官网](http://www.graduate.nuaa.edu.cn/)
   * [南航计算机学院官网](http://cs.nuaa.edu.cn/)
   * 南航计算机学院微信公众号
