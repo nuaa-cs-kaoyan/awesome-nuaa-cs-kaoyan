@@ -68,7 +68,9 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
 
   <img align="left" src="assets/image-20221103203111522.png" alt="2024-qq群" style="zoom:33%;" />
 
-<img align="left" src="assets/image-20230225141942180.png" alt="image-20230225141942180"  />
+
+
+![](assets/image-20230225141942180.png)
 
 ----
 
