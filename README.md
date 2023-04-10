@@ -113,6 +113,12 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
 
 
 
+## 来段rap
+
+<iframe src="//player.bilibili.com/player.html?aid=484805368&bvid=BV1bT411W7qA&cid=1090613686&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+
+
 ## 关于熊二
 
 | 学长初试分数                                                 | 微信公众号：熊二学长                                         |
