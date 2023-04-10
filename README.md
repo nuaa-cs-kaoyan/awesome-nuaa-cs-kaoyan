@@ -13,6 +13,7 @@
 - [授人以渔](#%E6%8E%88%E4%BA%BA%E4%BB%A5%E6%B8%94)
 - [2024南航计算机考研最新通知](#2024%E5%8D%97%E8%88%AA%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%80%83%E7%A0%94%E6%9C%80%E6%96%B0%E9%80%9A%E7%9F%A5)
 - [南航计算机考研简介](#%E5%8D%97%E8%88%AA%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%80%83%E7%A0%94%E7%AE%80%E4%BB%8B)
+- [来段rap](#%E6%9D%A5%E6%AE%B5rap)
 - [关于熊二](#%E5%85%B3%E4%BA%8E%E7%86%8A%E4%BA%8C)
 - [熊二考研百科全书购买](#%E7%86%8A%E4%BA%8C%E8%80%83%E7%A0%94%E7%99%BE%E7%A7%91%E5%85%A8%E4%B9%A6%E8%B4%AD%E4%B9%B0)
 - [南航计算机历年统考录取人数统计](#%E5%8D%97%E8%88%AA%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%86%E5%B9%B4%E7%BB%9F%E8%80%83%E5%BD%95%E5%8F%96%E4%BA%BA%E6%95%B0%E7%BB%9F%E8%AE%A1)
@@ -115,7 +116,7 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
 
 ## 来段rap
 
-<iframe src="//player.bilibili.com/player.html?aid=484805368&bvid=BV1bT411W7qA&cid=1090613686&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+[![image-20230410222155550](assets/image-20230410222155550.png)](https://www.bilibili.com/video/BV1bT411W7qA)
 
 
 
