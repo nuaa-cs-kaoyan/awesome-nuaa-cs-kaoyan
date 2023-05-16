@@ -722,6 +722,11 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
 
 ```
 
+├── 经验贴
+│   ├── 20届第二次考研讲座手稿.md
+│   ├── 20届后南航计算机考研变化.md
+│   ├── 关于 Github 的说明.jpg
+│   ├── 经验贴-18级辅导总结.pdf
 │   ├── 经验贴-3.png
 │   ├── 经验贴-英语免修分数.png
 │   ├── 经验贴-考研后期的建议.png
