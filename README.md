@@ -68,9 +68,9 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
 
   <img align="left" src="assets/image-20221103203111522.png" alt="2024-qq群" style="zoom:33%;" />
 
+http://cs.nuaa.edu.cn/2023/0701/c10851a314766/page.htm
 
-
-![](assets/image-20230225141942180.png)
+![图片](assets/640.png)
 
 改考 408 的通知是 2022 年 3 月通知的，提前一年通知。
 
