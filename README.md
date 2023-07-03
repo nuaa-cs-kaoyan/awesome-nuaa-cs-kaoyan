@@ -66,7 +66,9 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
 
 * **2024南航计算机考研答疑网站：http://www.nuaa-cs-kaoyan.top**
 
-  <img align="left" src="assets/image-20221103203111522.png" alt="2024-qq群" style="zoom:33%;" />
+  <img align="left" src="assets/image-20221103203111522.png" alt="2024-qq群" style="zoom:33%;" />'
+  
+  ![img](assets/image-20230225141942180-8262705.png)'
 
 http://cs.nuaa.edu.cn/2023/0701/c10851a314766/page.htm
 
