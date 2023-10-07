@@ -165,7 +165,7 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
 
 2023 及以前，考 829，2024 及以后，专业课考 408。
 
-![image-20230922153129527](./assets/image-20230922153129527.png)
+![2024南航计算机招生计划](./assets/2024南航计算机招生计划.png)
 
 
 
