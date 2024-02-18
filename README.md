@@ -132,7 +132,7 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
 
 | ![image-20220105193536136](assets/image-20220105193536136.png)<br />QQ: 321556185 | ![image-20230222094814538](assets/image-20231015211855259.png)<br />2023 南航计算机考研 QQ 群：155046050 | <img src="assets/image-20201223100927365.png" alt="image-20201223100927365" style="zoom:67%;" /><br />Github |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![image-20240218112745975](./assets/image-20240218112745975.png)<br />**微店购买链接** | ![image-20230406142815399](assets/image-20230406142815399.png)<br />**拼多多资料购买链接** | <img src="assets/大大卷点点心の二维码.png" alt="bilibili" style="zoom:67%;" /><br />**哔哩哔哩 求关注** |
+| ![image-20240218112745975](./assets/image-20240218112745975.png)<br />**微店购买链接** | ![image-20240218153021875](./assets/image-20240218153021875.png)<br />**拼多多资料购买链接** | <img src="assets/大大卷点点心の二维码.png" alt="bilibili" style="zoom:67%;" /><br />**哔哩哔哩 求关注** |
 |                                                              | ![image-20221219191839366](assets/image-20221219191839366.png)<br />知乎专栏：南航计算机考研 | <img src="assets/image-20221219192201331.png" alt="image-20221219192201331" style="zoom:67%;" /><br />微信公众号：熊二学长 |
 
 
@@ -143,7 +143,7 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
 
 拼多多购买链接：https://mobile.yangkeduo.com/goods2.html?pdd_bapp_share_channel=copy_link&goods_id=453190296714
 
-
+![image-20240218153031374](./assets/image-20240218153031374.png)
 
 * **熊二学长(个人经营) / 南航计算机高分学长(417分) / QQ: 321556185** 
 
