@@ -70,9 +70,9 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
 
 
 
-- 2025南航计算机考研考研攻略已上架
+- 2025南航计算机考研上岸攻略已上架
 
-
+![image-20240217213054392](./assets/image-20240217213054392.png)
 
 
 
@@ -684,7 +684,7 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
 	- 2023复试名单分析
 	- 2023录取结果分析
 - 熊二考研方法论 —— 035
-	- 考研没有圣经
+	- 考研没有shengjing
 	- 像准备高考一样准备考研
 	- 复习只有两轮
 	- 一个好的开始
