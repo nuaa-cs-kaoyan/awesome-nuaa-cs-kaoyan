@@ -731,7 +731,7 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
 - 心态和整体规划 —— 183
 	- 天地不仁以万物为刍狗
 	- 几个特定时间的提醒
-	- 六祖坛经
+	- liuzutanjing
 	- 疫情和考研
 	- 放松娱乐&打鸡血
 	- 暑假的心态
