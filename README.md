@@ -72,7 +72,7 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
 
 - 2025南航计算机考研上岸攻略已上架
 
-![image-20240217213054392](./assets/image-20240217213054392.png)
+![image-20240218095336146](./assets/image-20240218095336146.png)
 
 
 
