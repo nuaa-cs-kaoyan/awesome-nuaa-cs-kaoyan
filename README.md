@@ -66,6 +66,16 @@ Gitee 备份：https://gitee.com/wansho/awesome-nuaa-cs-kaoyan
 
 
 
+## 2026考研通知
+
+2025 考研群：638031809
+
+![image-20241230195710072](./assets/image-20241230195710072.png)
+
+
+
+
+
 ## 2025考研通知
 
 - 2025 考研群：938584974
