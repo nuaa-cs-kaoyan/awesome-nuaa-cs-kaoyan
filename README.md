@@ -1,8 +1,8 @@
 # 南航计算机考研-熊二
 
+![image-20250205174000309](./assets/image-20250205174000309.png)
 
 
-![image-20240217205658258](./assets/image-20240217205658258.png)
 
  [![github](https://img.shields.io/github/stars/nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan.svg)](https://github.com/nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan) 
 
